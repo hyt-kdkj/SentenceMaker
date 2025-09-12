@@ -9,7 +9,7 @@ import os
 # --- ディレクトリ設定 ---
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 files_dir = os.path.join(base_dir, "files")
-sentence_json_path = os.path.join(files_dir, "sentence.json")
+sentence_json_path = os.path.join(files_dir, "sentences.json")
 
 # --- JSON読み込み ---
 with open(sentence_json_path, "r", encoding="utf-8") as f:
@@ -27,7 +27,7 @@ y_position = height - 2*cm  # 上からの開始位置
 
 for entry in words:
     word = entry["word"]
-    meaning = entry["meaning"]
+    meanings = entry["meanings"]
     synonyms = entry.get("synonyms", [])
     sentences = [entry["sentence1"], entry["sentence2"], entry["sentence3"]]
 
@@ -38,7 +38,7 @@ for entry in words:
 
     # 意味
     c.setFont("HeiseiKakuGo-W5", 10)
-    c.drawString(2*cm, y_position, f"意味: {meaning}")
+    c.drawString(2*cm, y_position, f"意味: {meanings}")
     y_position -= 0.5*cm
     
     # 類義語

@@ -34,22 +34,13 @@ def call_openai_chat(prompt):
         return None
 
 def build_prompt(word):
-    # モデルに「厳密な JSON だけ」を返させるように指示
+    # JSON出力と各フィールドの要件のみを簡潔に指示
     return (
-        f"Given the English word or idiom: '{word}', return a JSON object EXACTLY in the following structure and nothing else:\n\n"
-        "{\n"
-        '  \"word\": <the word or idiom>,\n'
-        '  \"meaning\": <multiple meanings (Japanese)>,\n'
-        '  \"synonyms\": <similar words or idioms (English)>,\n'
-        '  \"sentence1\": <example sentence 1 (one sentence)>,\n'
-        '  \"sentence2\": <example sentence 2 (one sentence)>,\n'
-        '  \"sentence3\": <example sentence 3 (one sentence)>\n'
-        "}\n\n"
-        "Requirements:\n"
-        "- Keep all fields as strings.\n"
-        "- Use natural, idiomatic English suitable for TOEIC reading/listening contexts.\n"
-        "- Focus on business, office, or workplace situations, or common daily scenarios relevant for TOEIC.\n"
-        "- Do NOT include any extra commentary, explanation, or markdown—only the JSON object.\n"
+        f"Word: {word}\n"
+        "Return ONLY one JSON object with these string fields:"
+        " word, meanings (Japanese), synonyms (English), sentence1, sentence2, sentence3.\n"
+        "Use natural idiomatic English for example sentences (business/daily TOEIC contexts).\n"
+        "Do NOT add any extra text, explanation, or markdown."
     )
 
 
@@ -85,7 +76,7 @@ def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
     files_dir = os.path.join(base_dir, "files")
     words_path = os.path.join(files_dir, "words.txt")
-    sentence_json_path = os.path.join(files_dir, ".sentence.json")
+    sentence_json_path = os.path.join(files_dir, "sentences.json")
 
     # words.txtから単語/熟語を取得
     if not os.path.isfile(words_path):
