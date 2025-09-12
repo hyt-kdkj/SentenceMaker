@@ -114,9 +114,9 @@ def main():
     for word in words:
         print(f"Processing: {word}")
         prompt = build_prompt(word)
-        raw = call_openai_chat(prompt)
-        if raw:
-            obj = ensure_valid_json(raw)
+        response = call_openai_chat(prompt)
+        if response:
+            obj = ensure_valid_json(response)
             if obj is None:
                 print(f"Warning: API returned non-JSON or malformed JSON for '{word}'. Fallback parsing.", file=sys.stderr)
             else:

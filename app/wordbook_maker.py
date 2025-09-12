@@ -19,7 +19,7 @@ with open(sentence_json_path, "r", encoding="utf-8") as f:
 pdfmetrics.registerFont(UnicodeCIDFont("HeiseiKakuGo-W5"))
 
 # --- PDF作成 ---
-pdf_file = "wordbook.pdf"
+pdf_file = os.path.join(files_dir, "wordbook.pdf")
 c = canvas.Canvas(pdf_file, pagesize=A4)
 width, height = A4
 

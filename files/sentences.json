@@ -1,0 +1,546 @@
+[
+  {
+    "word": "leave out",
+    "meaning": "省く、抜かす",
+    "sentence1": "Please make sure to leave out any unnecessary details in your report.",
+    "sentence2": "I accidentally left out my colleague's name from the presentation.",
+    "sentence3": "It's important not to leave out key information when communicating with clients."
+  },
+  {
+    "word": "embark on",
+    "meaning": "始める、着手する",
+    "sentence1": "The team will embark on a new project next month to improve customer service.",
+    "sentence2": "She decided to embark on a career change after ten years in the same industry.",
+    "sentence3": "We are excited to embark on this journey of innovation and growth together."
+  },
+  {
+    "word": "disseminate",
+    "meaning": "広める、普及させる",
+    "sentence1": "The company plans to disseminate the new policy to all employees by the end of the week.",
+    "sentence2": "It is important to disseminate accurate information during a crisis to avoid confusion.",
+    "sentence3": "The research team worked hard to disseminate their findings through various publications."
+  },
+  {
+    "word": "courtesy of",
+    "meaning": "〜のご厚意で、〜のおかげで",
+    "sentence1": "The presentation was made possible courtesy of our generous sponsors.",
+    "sentence2": "This report was prepared courtesy of the research team.",
+    "sentence3": "The event was held at the venue courtesy of the local community."
+  },
+  {
+    "word": "endorse",
+    "meaning": "支持する、承認する",
+    "sentence1": "The manager decided to endorse the new marketing strategy after reviewing its potential benefits.",
+    "sentence2": "Many celebrities endorse products to increase their visibility and sales.",
+    "sentence3": "Before signing the contract, make sure to endorse the terms that you agree with."
+  },
+  {
+    "word": "pertain",
+    "meaning": "関連する、関係する",
+    "sentence1": "The documents you submitted pertain to the project we discussed last week.",
+    "sentence2": "Please ensure that all information provided pertains to the current regulations.",
+    "sentence3": "The guidelines pertain specifically to employee conduct during meetings."
+  },
+  {
+    "word": "solicit",
+    "meaning": "請求する、求める",
+    "sentence1": "The company decided to solicit feedback from its customers to improve its services.",
+    "sentence2": "She plans to solicit donations for the charity event next month.",
+    "sentence3": "It is important to solicit opinions from all team members during the project planning phase."
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予備的な、初歩的な",
+    "sentence1": "The preliminary report indicated that the project was on track for completion.",
+    "sentence2": "Before the final presentation, we need to review the preliminary findings with the team.",
+    "sentence3": "She conducted a preliminary analysis to identify potential issues before the main study."
+  },
+  {
+    "word": "procrastinate",
+    "meaning": "先延ばしにする",
+    "sentence1": "Many employees tend to procrastinate when faced with a challenging project.",
+    "sentence2": "If you procrastinate on your tasks, you may miss important deadlines.",
+    "sentence3": "It's better to start early than to procrastinate until the last minute."
+  },
+  {
+    "word": "turnover",
+    "meaning": "売上高、従業員の離職率",
+    "sentence1": "The company's turnover increased significantly last quarter due to higher sales.",
+    "sentence2": "High employee turnover can be costly for businesses as it requires constant training of new staff.",
+    "sentence3": "To improve turnover rates, the management implemented new employee engagement strategies."
+  },
+  {
+    "word": "resumption",
+    "meaning": "再開",
+    "sentence1": "The resumption of work after the holiday was welcomed by all employees.",
+    "sentence2": "We are looking forward to the resumption of the project next month.",
+    "sentence3": "The resumption of services will take place after the maintenance is completed."
+  },
+  {
+    "word": "abbreviated",
+    "meaning": "短縮された",
+    "sentence1": "The report was abbreviated to fit the presentation time limit.",
+    "sentence2": "We need an abbreviated version of the document for the meeting.",
+    "sentence3": "Her abbreviated schedule allowed her to focus on the most important tasks."
+  },
+  {
+    "word": "carpool",
+    "meaning": "相乗りすること",
+    "sentence1": "To save on gas and reduce traffic, many employees choose to carpool to work.",
+    "sentence2": "Our company encourages staff to carpool as part of its sustainability initiative.",
+    "sentence3": "She arranged a carpool with her colleagues to make the daily commute more economical."
+  },
+  {
+    "word": "affiliation",
+    "meaning": "提携、所属",
+    "sentence1": "The company's affiliation with the university has led to several successful research projects.",
+    "sentence2": "Her affiliation with the nonprofit organization helped her gain valuable experience in community service.",
+    "sentence3": "We need to clarify our affiliation with the partner firm before proceeding with the contract."
+  },
+  {
+    "word": "expedite",
+    "meaning": "迅速に進める、促進する",
+    "sentence1": "We need to expedite the approval process to meet the project deadline.",
+    "sentence2": "The manager asked the team to expedite the delivery of the new software.",
+    "sentence3": "To expedite customer service, we implemented a new ticketing system."
+  },
+  {
+    "word": "preparatory",
+    "meaning": "準備の、準備的な",
+    "sentence1": "The team held a preparatory meeting to discuss the project goals.",
+    "sentence2": "She completed several preparatory tasks before the main presentation.",
+    "sentence3": "The preparatory phase of the project is crucial for its success."
+  },
+  {
+    "word": "inadvertently",
+    "meaning": "不注意で、うっかり",
+    "sentence1": "She inadvertently sent the email to the wrong recipient, causing a misunderstanding.",
+    "sentence2": "The report was inadvertently left out of the presentation, which led to confusion among the team.",
+    "sentence3": "He inadvertently revealed the company's confidential information during the meeting."
+  },
+  {
+    "word": "perishable",
+    "meaning": "腐りやすい",
+    "sentence1": "We need to sell the perishable goods before they expire.",
+    "sentence2": "The company implemented new storage methods to extend the shelf life of perishable items.",
+    "sentence3": "During the meeting, we discussed the challenges of managing perishable inventory."
+  },
+  {
+    "word": "deliberation",
+    "meaning": "熟慮、検討",
+    "sentence1": "The team held a meeting for careful deliberation before making the final decision.",
+    "sentence2": "After much deliberation, the board decided to invest in new technology.",
+    "sentence3": "Deliberation is essential when planning a successful marketing strategy."
+  },
+  {
+    "word": "entail",
+    "meaning": "伴う、必要とする",
+    "sentence1": "The new project will entail additional training for all employees.",
+    "sentence2": "Implementing the new policy may entail some changes in our workflow.",
+    "sentence3": "This role will entail frequent travel to meet with clients."
+  },
+  {
+    "word": "imperative",
+    "meaning": "必須の、緊急の",
+    "sentence1": "It is imperative that we meet the project deadline to ensure client satisfaction.",
+    "sentence2": "In today's competitive market, it is imperative for businesses to innovate continuously.",
+    "sentence3": "Effective communication is imperative for a successful team collaboration."
+  },
+  {
+    "word": "outreach",
+    "meaning": "支援活動、 福祉活動",
+    "sentence1": "The company launched a new outreach program to connect with local communities.",
+    "sentence2": "Our outreach efforts have significantly increased awareness of our services.",
+    "sentence3": "She was responsible for the outreach initiatives that engaged potential clients."
+  },
+  {
+    "word": "proprietor",
+    "meaning": "所有者、経営者",
+    "sentence1": "The proprietor of the café greeted each customer with a warm smile.",
+    "sentence2": "As the proprietor, she was responsible for all the daily operations of the store.",
+    "sentence3": "The landlord is the proprietor of the building where our office is located."
+  },
+  {
+    "word": "ventilation",
+    "meaning": "換気、風通し",
+    "sentence1": "The office needs better ventilation to ensure a comfortable working environment.",
+    "sentence2": "Proper ventilation is essential for maintaining air quality in the workplace.",
+    "sentence3": "We installed new fans to improve ventilation in the conference room."
+  },
+  {
+    "word": "purveyor",
+    "meaning": "供給業者、販売業者",
+    "sentence1": "The company is a leading purveyor of high-quality office supplies.",
+    "sentence2": "As a purveyor of fine wines, he takes great pride in selecting the best vintages.",
+    "sentence3": "Our restaurant is known as a purveyor of gourmet meals made from local ingredients."
+  },
+  {
+    "word": "ensure",
+    "meaning": "確実にする、保証する",
+    "sentence1": "We need to ensure that all reports are submitted by the deadline.",
+    "sentence2": "The manager will ensure that the project stays on track.",
+    "sentence3": "To ensure customer satisfaction, we offer a money-back guarantee."
+  },
+  {
+    "word": "probationary",
+    "meaning": "試用の、見習いの",
+    "sentence1": "The new employee is on a probationary period for the first three months.",
+    "sentence2": "During the probationary phase, performance will be closely monitored.",
+    "sentence3": "She received feedback on her work during her probationary evaluation."
+  },
+  {
+    "word": "poised",
+    "meaning": "準備が整った、落ち着いた",
+    "sentence1": "The team is poised to launch the new product next month.",
+    "sentence2": "She remained poised during the presentation, despite the technical difficulties.",
+    "sentence3": "With the merger on the horizon, the company is poised for significant growth."
+  },
+  {
+    "word": "forge",
+    "meaning": "鍛造する、形成する、構築する",
+    "sentence1": "The team worked together to forge a strong partnership with the new client.",
+    "sentence2": "In order to succeed, we must forge ahead despite the challenges we face.",
+    "sentence3": "She hopes to forge a career in marketing after completing her degree."
+  },
+  {
+    "word": "flawless",
+    "meaning": "完璧な、欠点のない",
+    "sentence1": "Her presentation was flawless, impressing everyone in the meeting.",
+    "sentence2": "The report was flawless, with no errors or omissions.",
+    "sentence3": "He delivered a flawless performance during the client pitch."
+  },
+  {
+    "word": "grandeur",
+    "meaning": "壮大さ, 偉大さ",
+    "sentence1": "The company's new headquarters reflects its grandeur and ambition in the market.",
+    "sentence2": "She spoke of the grandeur of the project, inspiring the team to aim higher.",
+    "sentence3": "The grandeur of the annual conference left a lasting impression on all attendees."
+  },
+  {
+    "word": "strategize",
+    "meaning": "戦略を立てる, 計画を練る",
+    "sentence1": "We need to strategize our approach to the upcoming project to ensure success.",
+    "sentence2": "The team gathered to strategize on how to improve our marketing efforts.",
+    "sentence3": "It's important to strategize effectively in order to meet our quarterly goals."
+  },
+  {
+    "word": "exemption",
+    "meaning": "免除, 免税",
+    "sentence1": "The company received an exemption from certain regulations to encourage growth.",
+    "sentence2": "Employees with disabilities may qualify for tax exemption under specific conditions.",
+    "sentence3": "The exemption allowed the nonprofit organization to allocate more funds to its programs."
+  },
+  {
+    "word": "be valid for",
+    "meaning": "有効である, 適用される",
+    "sentence1": "The discount will be valid for one month from the date of purchase.",
+    "sentence2": "Please ensure that your membership is valid for the entire duration of the event.",
+    "sentence3": "This contract will be valid for five years unless terminated earlier."
+  },
+  {
+    "word": "amenable",
+    "meaning": "従順な, 受け入れやすい",
+    "sentence1": "The team was amenable to the new project guidelines proposed by management.",
+    "sentence2": "She is always amenable to feedback, which helps her improve her work.",
+    "sentence3": "We need an amenable partner who can adapt to our changing needs."
+  },
+  {
+    "word": "make ends meet",
+    "meaning": "収入と支出をうまくやりくりすること; 生活費を稼ぐこと",
+    "sentence1": "Despite the rising costs of living, she manages to make ends meet with her part-time job.",
+    "sentence2": "He took on extra work to ensure he could make ends meet this month.",
+    "sentence3": "Many families struggle to make ends meet during tough economic times."
+  },
+  {
+    "word": "allege",
+    "meaning": "主張する, 断言する, 言い立てる",
+    "sentence1": "The report alleges that the company engaged in unethical practices.",
+    "sentence2": "She will allege that the decision was made without proper consultation.",
+    "sentence3": "The lawyer plans to allege that the contract was breached."
+  },
+    {
+    "word": "abrogate",
+    "meaning": "廃止する, 無効にする, 取り消す",
+    "sentence1": "The company decided to abrogate the outdated policy to improve efficiency.",
+    "sentence2": "After much debate, the board voted to abrogate the contract with the supplier.",
+    "sentence3": "The new regulations will abrogate previous agreements that are no longer relevant."
+  },
+  {
+    "word": "populate",
+    "meaning": "人口を増やす、埋める、構成する",
+    "sentence1": "The company plans to populate the new office with skilled employees from various departments.",
+    "sentence2": "We need to populate the database with the latest customer information to improve our marketing efforts.",
+    "sentence3": "As we expand our services, we will populate our team with experts in different fields."
+  },
+  {
+    "word": "confide",
+    "meaning": "打ち明ける, 信頼する, 告白する",
+    "sentence1": "She decided to confide in her manager about the challenges she was facing at work.",
+    "sentence2": "It's important to confide in someone you trust when dealing with stressful situations.",
+    "sentence3": "He felt comfortable enough to confide his ideas during the team meeting."
+  },
+  {
+    "word": "arrange",
+    "meaning": "整える, 手配する, 配置する",
+    "synonyms": "organize, plan, set up",
+    "sentence1": "I need to arrange a meeting with the client for next week.",
+    "sentence2": "Can you help me arrange the files in alphabetical order?",
+    "sentence3": "We should arrange transportation for the team to the conference."
+  },
+  {
+    "word": "visibility",
+    "meaning": "視認性、可視性、明瞭さ",
+    "synonyms": "clarity, transparency, prominence",
+    "sentence1": "The visibility of our brand has increased significantly after the marketing campaign.",
+    "sentence2": "We need to improve the visibility of our project updates to keep everyone informed.",
+    "sentence3": "High visibility in the market can lead to more business opportunities."
+  },
+  {
+    "word": "postpone",
+    "meaning": "延期する, 後回しにする",
+    "synonyms": "delay, defer, put off",
+    "sentence1": "We need to postpone the meeting until next week due to scheduling conflicts.",
+    "sentence2": "The project deadline was postponed to allow for more thorough research.",
+    "sentence3": "She decided to postpone her vacation plans until after the busy season."
+  },
+    {
+    "word": "affluence",
+    "meaning": "豊かさ, 裕福, 富",
+    "synonyms": "wealth, prosperity, opulence",
+    "sentence1": "The company's affluence allowed it to invest in new technologies.",
+    "sentence2": "Many people aspire to a life of affluence and comfort.",
+    "sentence3": "Affluence can sometimes lead to a disconnect from the struggles of others."
+  },
+  {
+    "word": "detain",
+    "meaning": "拘留する, 引き留める, 逮捕する",
+    "synonyms": "hold, delay, restrain",
+    "sentence1": "The security team may detain anyone who is acting suspiciously.",
+    "sentence2": "We need to detain the shipment until we receive the necessary documents.",
+    "sentence3": "The police had to detain the suspect for further questioning."
+  },
+  {
+    "word": "bribery",
+    "meaning": "賄賂, 不正な利益を得るための行為",
+    "synonyms": "corruption, graft, kickback",
+    "sentence1": "The company was fined for engaging in bribery to secure contracts.",
+    "sentence2": "Bribery can undermine trust in business relationships.",
+    "sentence3": "He was accused of bribery after offering money to a government official."
+  },
+  {
+    "word": "resolute",
+    "meaning": "決意のある, 断固とした, 固い決心を持った",
+    "synonyms": "determined, steadfast, unwavering",
+    "sentence1": "She remained resolute in her decision to pursue a promotion despite the challenges.",
+    "sentence2": "His resolute attitude inspired the team to work harder towards their goals.",
+    "sentence3": "The manager was resolute in implementing the new policies to improve efficiency."
+  },
+  {
+    "word": "petition",
+    "meaning": "請願, 申請書, 要望書",
+    "synonyms": "request, appeal, application",
+    "sentence1": "The employees submitted a petition to request better working conditions.",
+    "sentence2": "We need to gather signatures for the petition before the deadline.",
+    "sentence3": "She wrote a formal petition to the management regarding the new policy."
+  },
+  {
+    "word": "admit doing",
+    "meaning": "何かをしたことを認める、認めること",
+    "synonyms": "acknowledge, confess, accept",
+    "sentence1": "She had to admit doing the mistake in the report.",
+    "sentence2": "After much hesitation, he finally admitted doing the task incorrectly.",
+    "sentence3": "It's important to admit doing something wrong to learn from it."
+  },
+  {
+    "word": "temperament",
+    "meaning": "気質、性格、性分",
+    "synonyms": "disposition, character, nature",
+    "sentence1": "Her calm temperament makes her an excellent leader in stressful situations.",
+    "sentence2": "Understanding your team's temperament can improve communication and collaboration.",
+    "sentence3": "He has a cheerful temperament that brightens the office atmosphere."
+  },
+  {
+    "word": "evict",
+    "meaning": "立ち退かせる, 追い出す",
+    "synonyms": "remove, expel, oust",
+    "sentence1": "The landlord decided to evict the tenant for not paying rent.",
+    "sentence2": "After several warnings, the company had no choice but to evict the employee for misconduct.",
+    "sentence3": "The court ordered the eviction of the business from the premises due to lease violations."
+  },
+  {
+    "word": "confer",
+    "meaning": "相談する, 授与する, 協議する",
+    "synonyms": "discuss, consult, bestow",
+    "sentence1": "The manager will confer with the team before making a final decision.",
+    "sentence2": "We need to confer about the project timeline to ensure everyone is on the same page.",
+    "sentence3": "She was honored to confer the award to the outstanding employee."
+  },
+  {
+    "word": "remit",
+    "meaning": "送金する, 免除する, 減免する",
+    "synonyms": "send, transfer, exempt, forgive",
+    "sentence1": "Please remit the payment by the end of the month to avoid late fees.",
+    "sentence2": "The company decided to remit the outstanding balance due to the customer's loyalty.",
+    "sentence3": "After reviewing the case, the manager chose to remit the penalty for the late submission."
+  },
+  {
+    "word": "surveillance",
+    "meaning": "監視, 監視活動, 監視状態",
+    "synonyms": "monitoring, observation, oversight",
+    "sentence1": "The company implemented surveillance measures to ensure the safety of its employees.",
+    "sentence2": "Surveillance cameras were installed in the office to prevent theft.",
+    "sentence3": "Regular surveillance of the workplace can help identify potential security risks."
+  },
+  {
+    "word": "overhaul",
+    "meaning": "全面的な見直し, 徹底的な修理, 大改造",
+    "synonyms": "revamp, renovate, upgrade",
+    "sentence1": "The company decided to overhaul its marketing strategy to attract more customers.",
+    "sentence2": "After the audit, we realized we needed to overhaul our financial processes.",
+    "sentence3": "The software team is planning to overhaul the application to improve user experience."
+  },
+  {
+    "word": "dissipate",
+    "meaning": "消散する, 無駄にする, 使い果たす",
+    "synonyms": "disperse, scatter, vanish",
+    "sentence1": "The manager's concerns about the project's viability began to dissipate after the team presented their findings.",
+    "sentence2": "As the morning fog started to dissipate, the sun revealed a beautiful landscape.",
+    "sentence3": "If we don't address the issues quickly, our resources will dissipate before we can make any progress."
+  },
+  {
+    "word": "convict",
+    "meaning": "有罪を宣告する, 受刑者",
+    "synonyms": "criminal, felon, inmate",
+    "sentence1": "The jury decided to convict the defendant after reviewing the evidence.",
+    "sentence2": "She felt a sense of relief when the judge chose not to convict her for the minor offense.",
+    "sentence3": "In the meeting, we discussed the implications of convicting someone based on circumstantial evidence."
+  },
+  {
+    "word": "hamper",
+    "meaning": "妨げる, 制限する, 進行を妨げる",
+    "synonyms": "hinder, obstruct, impede",
+    "sentence1": "The new regulations may hamper our ability to meet the project deadline.",
+    "sentence2": "Technical issues can often hamper communication between team members.",
+    "sentence3": "Lack of resources can hamper the growth of a startup."
+  },
+  {
+    "word": "depreciation",
+    "meaning": "減価償却, 価値の減少, 価値の低下",
+    "synonyms": "devaluation, reduction, decline",
+    "sentence1": "The company reported a significant depreciation of its assets this quarter.",
+    "sentence2": "Understanding depreciation is crucial for accurate financial reporting.",
+    "sentence3": "Investors should consider the impact of depreciation on their overall returns."
+  },
+  {
+    "word": "dubious",
+    "meaning": "疑わしい, 不確かな, あやしい",
+    "synonyms": "questionable, doubtful, uncertain",
+    "sentence1": "The manager had dubious feelings about the proposed budget cuts.",
+    "sentence2": "She gave a dubious smile when asked if she would meet the deadline.",
+    "sentence3": "His dubious claims about the product raised concerns among the team."
+  },
+  {
+    "word": "nurture",
+    "meaning": "育てる, 養う, 大切に育てる",
+    "synonyms": "cultivate, foster, support",
+    "sentence1": "It is important to nurture talent within the organization to ensure long-term success.",
+    "sentence2": "The manager decided to nurture the new project by allocating additional resources.",
+    "sentence3": "We must nurture our client relationships to maintain a competitive edge in the market."
+  },
+  {
+    "word": "distract",
+    "meaning": "気を散らす, 注意をそらす",
+    "synonyms": "divert, sidetrack, confuse",
+    "sentence1": "The loud construction noise outside the office can easily distract employees from their work.",
+    "sentence2": "She tried to distract herself from the stress of the upcoming presentation by taking a short walk.",
+    "sentence3": "It's important to minimize distractions during meetings to ensure everyone stays focused."
+  },
+  {
+    "word": "deputy",
+    "meaning": "代理人, 副職, 代理",
+    "synonyms": "assistant, representative, substitute",
+    "sentence1": "The deputy manager will oversee the project in my absence.",
+    "sentence2": "She was appointed as the deputy director to help with the new initiatives.",
+    "sentence3": "As a deputy, he is responsible for making decisions when the manager is unavailable."
+  },
+  {
+    "word": "fireproof",
+    "meaning": "耐火の, 火に強い, 火災に対する安全性がある",
+    "synonyms": "flame-resistant, heat-resistant, fire-retardant",
+    "sentence1": "The new office building is designed to be fireproof to ensure the safety of all employees.",
+    "sentence2": "We installed fireproof cabinets to protect important documents from potential fire damage.",
+    "sentence3": "It's essential to use fireproof materials in construction to comply with safety regulations."
+  },
+  {
+    "word": "liability",
+    "meaning": "責任, 義務, 負債",
+    "synonyms": "responsibility, obligation, debt",
+    "sentence1": "The company has a liability to ensure the safety of its employees.",
+    "sentence2": "Managing liability is crucial for maintaining a healthy balance sheet.",
+    "sentence3": "She was concerned about the liability associated with the new project."
+  },
+  {
+    "word": "pledge to do",
+    "meaning": "することを誓う, 約束する",
+    "synonyms": "commit to, vow to, promise to",
+    "sentence1": "The team made a pledge to do their best in the upcoming project.",
+    "sentence2": "She pledged to do her part in reducing the company's carbon footprint.",
+    "sentence3": "During the meeting, he pledged to do everything possible to meet the deadline."
+  },
+  {
+    "word": "sketchy",
+    "meaning": "不完全な、あいまいな、信頼できない",
+    "synonyms": "uncertain, dubious, incomplete, unreliable",
+    "sentence1": "The report was quite sketchy and lacked detailed information.",
+    "sentence2": "I found the sketchy details in the proposal concerning.",
+    "sentence3": "Her explanation was a bit sketchy, making it hard to understand the project requirements."
+  },
+  {
+    "word": "stern",
+    "meaning": "厳しい, 厳格な, 厳しい表情の",
+    "synonyms": "strict, severe, harsh",
+    "sentence1": "The manager had a stern look on her face during the meeting.",
+    "sentence2": "He received a stern warning about his tardiness.",
+    "sentence3": "The teacher's stern demeanor kept the students focused."
+  },
+  {
+    "word": "tedious",
+    "meaning": "退屈な, 面倒な, 長たらしい",
+    "synonyms": "boring, monotonous, tiresome",
+    "sentence1": "The report was so tedious that many employees lost interest halfway through.",
+    "sentence2": "Completing the tedious paperwork took longer than expected.",
+    "sentence3": "She found the repetitive tasks at work to be quite tedious."
+  },
+  {
+    "word": "deduction",
+    "meaning": "控除, 演繹, 推論",
+    "synonyms": "inference, conclusion, reasoning",
+    "sentence1": "The accountant made a deduction from the total expenses to calculate the net profit.",
+    "sentence2": "After careful deduction of the facts, we reached a logical conclusion.",
+    "sentence3": "He received a tax deduction for his charitable contributions last year."
+  },
+  {
+    "word": "fixture",
+    "meaning": "固定物, 施設, 常連客",
+    "synonyms": "attachment, fitting, installation",
+    "sentence1": "The new lighting fixture in the conference room has improved visibility during meetings.",
+    "sentence2": "As a long-time fixture at the coffee shop, she knows all the baristas by name.",
+    "sentence3": "The office's new furniture fixtures were designed to enhance collaboration among team members."
+  },
+  {
+    "word": "attainment",
+    "meaning": "達成, 獲得, 成就",
+    "synonyms": "achievement, accomplishment, realization",
+    "sentence1": "The attainment of our sales targets this quarter has boosted team morale.",
+    "sentence2": "Her attainment of a professional certification has opened new career opportunities.",
+    "sentence3": "The company's focus on employee training is key to the attainment of its strategic goals."
+  },
+  {
+    "word": "vastly",
+    "meaning": "非常に、著しく、広範囲にわたって",
+    "synonyms": "greatly, significantly, enormously",
+    "sentence1": "The company's profits have vastly increased this quarter compared to last year.",
+    "sentence2": "Her skills have vastly improved after attending the training sessions.",
+    "sentence3": "The new software vastly simplifies the reporting process for our team."
+  }
+]
