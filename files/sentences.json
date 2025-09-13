@@ -566,5 +566,397 @@
     "sentence1": "The employee showed defiance by refusing to follow the new company policy.",
     "sentence2": "Her defiance in the face of criticism impressed her colleagues.",
     "sentence3": "In a moment of defiance, he decided to pursue his own ideas instead of conforming to the team's plan."
+  },
+  {
+    "word": "be prone to",
+    "meanings": "〜しがちである、〜の傾向がある",
+    "synonyms": [
+      "be inclined to",
+      "be susceptible to",
+      "be likely to"
+    ],
+    "sentence1": "She is prone to making impulsive decisions when under pressure.",
+    "sentence2": "Our team is prone to delays if we don't stick to the schedule.",
+    "sentence3": "He is prone to overthinking, which can slow down his productivity."
+  },
+  {
+    "word": "thoroughly",
+    "meanings": "徹底的に、完全に",
+    "synonyms": "completely, entirely, fully",
+    "sentence1": "We need to thoroughly review the report before submitting it to the client.",
+    "sentence2": "She thoroughly enjoyed the training session and found it very informative.",
+    "sentence3": "It's important to thoroughly check your work for any errors before finalizing it."
+  },
+  {
+    "word": "hand in",
+    "meanings": "提出する、渡す",
+    "synonyms": [
+      "submit",
+      "deliver",
+      "present"
+    ],
+    "sentence1": "Please hand in your reports by the end of the day.",
+    "sentence2": "I need to hand in my application before the deadline.",
+    "sentence3": "Don't forget to hand in your homework tomorrow."
+  },
+  {
+    "word": "be dedicated to",
+    "meanings": "〜に専念する、〜に捧げられている",
+    "synonyms": [
+      "be committed to",
+      "be devoted to",
+      "be focused on"
+    ],
+    "sentence1": "She is dedicated to improving the company's customer service.",
+    "sentence2": "Our team is dedicated to meeting the project deadlines without compromising quality.",
+    "sentence3": "He has always been dedicated to his work, often putting in extra hours to ensure success."
+  },
+  {
+    "word": "mutate",
+    "meanings": "変異する",
+    "synonyms": [
+      "change",
+      "alter",
+      "transform"
+    ],
+    "sentence1": "The company's strategy may need to mutate in response to market demands.",
+    "sentence2": "As technology evolves, our methods of communication will inevitably mutate.",
+    "sentence3": "To stay competitive, businesses must be willing to mutate their practices over time."
+  },
+  {
+    "word": "conceive",
+    "meanings": "考える, 想像する, 思いつく",
+    "synonyms": "imagine, envision, formulate",
+    "sentence1": "During the meeting, we need to conceive a new strategy to boost our sales.",
+    "sentence2": "She was able to conceive an innovative solution to the problem we faced.",
+    "sentence3": "It's important to conceive ideas that align with our company's vision."
+  },
+  {
+    "word": "persist in",
+    "meanings": "〜を貫く、〜に固執する",
+    "synonyms": "continue, persevere, insist",
+    "sentence1": "Despite the challenges, she decided to persist in her efforts to improve the team's performance.",
+    "sentence2": "He will persist in his pursuit of excellence, no matter how difficult the journey may be.",
+    "sentence3": "The company must persist in its commitment to sustainability to meet the growing consumer demand."
+  },
+  {
+    "word": "resent",
+    "meanings": "恨む, 嫌う",
+    "synonyms": [
+      "feel bitter about",
+      "grudge",
+      "take offense"
+    ],
+    "sentence1": "She began to resent her colleague for taking credit for her work.",
+    "sentence2": "It's important not to resent others for their success; instead, use it as motivation.",
+    "sentence3": "He resented the extra workload assigned to him without any prior notice."
+  },
+  {
+    "word": "uncover",
+    "meanings": "明らかにする, 発見する",
+    "synonyms": [
+      "reveal",
+      "discover",
+      "expose"
+    ],
+    "sentence1": "The investigation aims to uncover the truth behind the company's financial discrepancies.",
+    "sentence2": "We need to uncover the underlying issues that are affecting employee morale.",
+    "sentence3": "The research team was able to uncover new insights into consumer behavior."
+  },
+  {
+    "word": "intrigue",
+    "meanings": "陰謀、興味を引くこと",
+    "synonyms": "interest, fascination, curiosity",
+    "sentence1": "The new marketing strategy is designed to intrigue potential customers.",
+    "sentence2": "Her mysterious background only served to intrigue the audience further.",
+    "sentence3": "The novel's plot twists are sure to intrigue readers until the very end."
+  },
+  {
+    "word": "extract",
+    "meanings": "抽出する、取り出す",
+    "synonyms": "remove, withdraw, derive",
+    "sentence1": "We need to extract the relevant data from the report before making our decision.",
+    "sentence2": "The dentist will extract the tooth if it continues to cause pain.",
+    "sentence3": "To improve our product, we should extract insights from customer feedback."
+  },
+  {
+    "word": "plague",
+    "meanings": "疫病, 災厄, 煩わしいもの",
+    "synonyms": "affliction, curse, scourge",
+    "sentence1": "The company faced a plague of delays that affected their project timeline.",
+    "sentence2": "Many businesses are struggling to recover from the economic plague caused by the pandemic.",
+    "sentence3": "The constant changes in regulations can feel like a plague to small business owners."
+  },
+  {
+    "word": "session",
+    "meanings": "セッション",
+    "synonyms": "meeting, conference, gathering",
+    "sentence1": "We have a training session scheduled for tomorrow afternoon.",
+    "sentence2": "The board will hold a special session to discuss the new policy changes.",
+    "sentence3": "During the session, participants will have the opportunity to ask questions."
+  },
+  {
+    "word": "transaction",
+    "meanings": "取引、取引行為",
+    "synonyms": "deal, exchange, trade",
+    "sentence1": "The transaction was completed successfully, and the funds were transferred immediately.",
+    "sentence2": "She reviewed the transaction history to ensure all charges were accurate.",
+    "sentence3": "In today's digital economy, online transactions have become increasingly common."
+  },
+  {
+    "word": "arbitrary",
+    "meanings": "恣意的な、任意の",
+    "synonyms": "random, capricious, whimsical",
+    "sentence1": "The manager made an arbitrary decision that affected the entire team without consulting anyone.",
+    "sentence2": "It's important to avoid arbitrary rules in the workplace to ensure fairness and transparency.",
+    "sentence3": "Her choice of project was arbitrary, based on a whim rather than any strategic planning."
+  },
+  {
+    "word": "certify",
+    "meanings": "証明する、認定する",
+    "synonyms": "verify, validate, confirm",
+    "sentence1": "The company needs to certify that all products meet safety standards before they can be sold.",
+    "sentence2": "She was asked to certify her qualifications for the job during the interview.",
+    "sentence3": "To ensure compliance, we must certify the accuracy of all financial reports."
+  },
+  {
+    "word": "junk mail",
+    "meanings": "迷惑メール",
+    "synonyms": "spam, unsolicited mail, bulk mail",
+    "sentence1": "I received a lot of junk mail after I registered my address online.",
+    "sentence2": "To reduce junk mail, consider opting out of marketing lists.",
+    "sentence3": "The company implemented a new policy to handle junk mail more efficiently."
+  },
+  {
+    "word": "subsequent",
+    "meanings": "その後の, 続いて起こる",
+    "synonyms": "following, ensuing, succeeding",
+    "sentence1": "The subsequent report highlighted the key findings from the previous study.",
+    "sentence2": "After the initial meeting, subsequent discussions led to a clearer understanding of the project.",
+    "sentence3": "The company saw a significant increase in sales in the subsequent quarter."
+  },
+  {
+    "word": "contempt",
+    "meanings": "軽蔑",
+    "synonyms": "disdain, scorn, derision",
+    "sentence1": "She looked at the proposal with contempt, believing it was poorly thought out.",
+    "sentence2": "His contempt for the outdated policies was evident during the meeting.",
+    "sentence3": "The manager expressed contempt for the team's lack of effort in meeting the deadline."
+  },
+  {
+    "word": "faint",
+    "meanings": "かすかな, 微弱な, 失神する",
+    "synonyms": "weak, dim, feeble",
+    "sentence1": "After working late into the night, I felt faint during the morning meeting.",
+    "sentence2": "The faint sound of music could be heard from the next room.",
+    "sentence3": "She gave a faint smile, indicating her approval of the proposal."
+  },
+  {
+    "word": "humble",
+    "meanings": "謙虚な、控えめな",
+    "synonyms": "modest, unassuming, meek",
+    "sentence1": "Despite his success, he remained a humble leader who valued his team's contributions.",
+    "sentence2": "She gave a humble response to the compliment, emphasizing the team's effort over her own.",
+    "sentence3": "In a humble manner, he acknowledged his mistakes and sought to improve in the future."
+  },
+  {
+    "word": "vulnerable",
+    "meanings": "脆弱な, 傷つきやすい",
+    "synonyms": "exposed, susceptible, defenseless",
+    "sentence1": "The company's financial report revealed that they were vulnerable to market fluctuations.",
+    "sentence2": "In today's digital age, personal information can make individuals vulnerable to identity theft.",
+    "sentence3": "During the meeting, she expressed her concerns about the vulnerable state of the project."
+  },
+  {
+    "word": "leave behind",
+    "meanings": "置き去りにする, 残す",
+    "synonyms": "abandon, forsake, neglect",
+    "sentence1": "If you don't submit your report on time, you might leave behind important details.",
+    "sentence2": "She decided to leave behind her old job to pursue her passion for art.",
+    "sentence3": "During the meeting, he left behind a few key points that needed further discussion."
+  },
+  {
+    "word": "to be frank",
+    "meanings": "率直に言うと",
+    "synonyms": "to be honest, frankly speaking, to be candid",
+    "sentence1": "To be frank, I don't think this project will meet the deadline.",
+    "sentence2": "If I may be frank, your presentation needs more data to support your claims.",
+    "sentence3": "To be frank, I believe we should reconsider our strategy moving forward."
+  },
+  {
+    "word": "split up",
+    "meanings": "分かれる, 解散する",
+    "synonyms": "break up, separate, divide",
+    "sentence1": "After several years of working together, the team decided to split up and pursue individual projects.",
+    "sentence2": "It's always tough when friends split up, but sometimes it's for the best.",
+    "sentence3": "The company had to split up its departments to improve efficiency and communication."
+  },
+  {
+    "word": "lure",
+    "meanings": "誘惑する, 魅了する",
+    "synonyms": "attract, entice, tempt",
+    "sentence1": "The marketing campaign was designed to lure customers into the store with special discounts.",
+    "sentence2": "She used her charm to lure him into accepting the job offer.",
+    "sentence3": "The promise of a promotion can often lure employees to work harder."
+  },
+  {
+    "word": "dispense with",
+    "meanings": "省く、取りやめる",
+    "synonyms": "do without, omit, forego",
+    "sentence1": "We can dispense with the formalities and get straight to the point.",
+    "sentence2": "The company decided to dispense with the annual report this year due to budget cuts.",
+    "sentence3": "In order to streamline our process, we should dispense with unnecessary meetings."
+  },
+  {
+    "word": "orphan",
+    "meanings": "孤児",
+    "synonyms": "waif, foundling, abandoned child",
+    "sentence1": "The charity organization focuses on providing support for orphan children in the community.",
+    "sentence2": "After the disaster, many families were left without parents, leaving a significant number of orphans.",
+    "sentence3": "She decided to adopt an orphan to give him a loving home and a brighter future."
+  },
+  {
+    "word": "hang over",
+    "meanings": "残る、影響を及ぼす",
+    "synonyms": "linger, persist, remain",
+    "sentence1": "The effects of the previous day's meeting seemed to hang over the team as they started their new project.",
+    "sentence2": "There was a sense of unease that hung over the office after the announcement of the layoffs.",
+    "sentence3": "Despite the excitement of the launch, a feeling of uncertainty continued to hang over the company."
+  },
+  {
+    "word": "take after",
+    "meanings": "似ている、似た性質を持つ",
+    "synonyms": "resemble, look like, be similar to",
+    "sentence1": "She really takes after her mother in both appearance and personality.",
+    "sentence2": "It's interesting how he takes after his grandfather, especially in his sense of humor.",
+    "sentence3": "Many people say that I take after my father when it comes to my work ethic."
+  },
+  {
+    "word": "turn a blind eye",
+    "meanings": "見て見ぬふりをする",
+    "synonyms": "ignore, overlook, disregard",
+    "sentence1": "Despite the obvious signs of misconduct, the manager chose to turn a blind eye to the situation.",
+    "sentence2": "It's easy to turn a blind eye to problems when they don't directly affect you.",
+    "sentence3": "The company cannot afford to turn a blind eye to safety violations any longer."
+  },
+  {
+    "word": "deception",
+    "meanings": "欺瞞、詐欺",
+    "synonyms": "trickery, fraud, dishonesty",
+    "sentence1": "The company's deception in their financial reports led to a significant loss of trust among investors.",
+    "sentence2": "She realized that his charm was just a form of deception to win her over.",
+    "sentence3": "In negotiations, transparency is crucial; any form of deception can ruin the deal."
+  },
+  {
+    "word": "reconcil",
+    "meanings": "和解する",
+    "synonyms": "resolve, settle, harmonize",
+    "sentence1": "After a long discussion, the two departments were finally able to reconcile their differences.",
+    "sentence2": "It's important to reconcile your financial statements at the end of each month.",
+    "sentence3": "They worked hard to reconcile their personal beliefs with the company's values."
+  },
+  {
+    "word": "impair",
+    "meanings": "損なう、悪化させる",
+    "synonyms": "damage, weaken, hinder",
+    "sentence1": "Excessive noise can impair your ability to concentrate during work hours.",
+    "sentence2": "The new regulations aim to prevent any actions that might impair public safety.",
+    "sentence3": "If you don't take care of your health, it could impair your performance at work."
+  },
+  {
+    "word": "abruptly",
+    "meanings": "突然に、急に",
+    "synonyms": "unexpectedly, swiftly, quickly",
+    "sentence1": "The meeting ended abruptly when the fire alarm went off.",
+    "sentence2": "She abruptly changed the topic during the discussion.",
+    "sentence3": "The project was abruptly canceled due to budget cuts."
+  },
+  {
+    "word": "put out",
+    "meanings": "消す、発表する、出す",
+    "synonyms": "extinguish, publish, release",
+    "sentence1": "The team worked late to put out the report before the deadline.",
+    "sentence2": "Please put out the candles before leaving the room.",
+    "sentence3": "The company plans to put out a new product next quarter."
+  },
+  {
+    "word": "contemplate",
+    "meanings": "熟考する, じっくり考える",
+    "synonyms": "consider, ponder, reflect",
+    "sentence1": "Before making a decision, it's important to contemplate all possible outcomes.",
+    "sentence2": "She likes to contemplate her career options during her lunch breaks.",
+    "sentence3": "The team will contemplate the proposal before presenting it to the board."
+  },
+  {
+    "word": "manifest",
+    "meanings": "明らかにする、表す、現れる",
+    "synonyms": "demonstrate, exhibit, display",
+    "sentence1": "The company's commitment to sustainability is manifest in its new eco-friendly product line.",
+    "sentence2": "Her enthusiasm for the project was manifest during the presentation.",
+    "sentence3": "The results of the survey manifest a clear need for improvement in customer service."
+  },
+  {
+    "word": "intriguing",
+    "meanings": "興味をそそる, 魅力的な",
+    "synonyms": "fascinating, captivating, interesting",
+    "sentence1": "The presentation was so intriguing that it kept everyone engaged throughout.",
+    "sentence2": "She found the book intriguing and couldn't put it down until she finished it.",
+    "sentence3": "His proposal included some intriguing ideas that sparked a lively discussion."
+  },
+  {
+    "word": "plight",
+    "meanings": "困難な状況, 苦境",
+    "synonyms": "predicament, dilemma, hardship",
+    "sentence1": "The company's financial plight has forced them to consider layoffs.",
+    "sentence2": "She spoke passionately about the plight of the homeless in the city.",
+    "sentence3": "Addressing the plight of workers in the gig economy is essential for fair labor practices."
+  },
+  {
+    "word": "on the wane",
+    "meanings": "衰退している、減少している",
+    "synonyms": "declining, diminishing, decreasing",
+    "sentence1": "The company's profits have been on the wane for the past few quarters.",
+    "sentence2": "As interest in the product is on the wane, we need to consider a new marketing strategy.",
+    "sentence3": "The popularity of the app is on the wane, prompting the developers to introduce new features."
+  },
+  {
+    "word": "get acquainted with",
+    "meanings": "知り合う、親しくなる",
+    "synonyms": "meet, familiarize, introduce",
+    "sentence1": "Before starting the project, it's important to get acquainted with the team members.",
+    "sentence2": "I took some time to get acquainted with the new software before the training session.",
+    "sentence3": "During the conference, attendees will have opportunities to get acquainted with industry leaders."
+  },
+  {
+    "word": "rebate",
+    "meanings": "リベート、割引",
+    "synonyms": "refund, discount, deduction",
+    "sentence1": "The company offered a rebate on the new software to encourage more sales.",
+    "sentence2": "After submitting the necessary paperwork, I received a rebate check in the mail.",
+    "sentence3": "Customers were thrilled to learn about the rebate program that would save them money on future purchases."
+  },
+  {
+    "word": "bylaw",
+    "meanings": "内規, 規則",
+    "synonyms": "regulation, rule, ordinance",
+    "sentence1": "The company updated its bylaws to reflect the new governance structure.",
+    "sentence2": "Understanding the bylaws is essential for all members of the organization.",
+    "sentence3": "The local government passed a new bylaw to improve community safety."
+  },
+  {
+    "word": "on the way out",
+    "meanings": "退場しつつある, 廃れつつある",
+    "synonyms": "declining, fading, going out of style",
+    "sentence1": "The traditional office setup is on the way out as more companies embrace remote work.",
+    "sentence2": "With the rise of digital media, print newspapers are on the way out.",
+    "sentence3": "Many believe that cash is on the way out, replaced by digital payment methods."
+  },
+  {
+    "word": "up-and-coming",
+    "meanings": "将来性のある, 有望な",
+    "synonyms": "promising, emerging, rising",
+    "sentence1": "The company is looking to invest in up-and-coming startups that show potential for growth.",
+    "sentence2": "She is an up-and-coming artist whose work has started to gain recognition in the local galleries.",
+    "sentence3": "Many up-and-coming professionals are eager to make their mark in the competitive job market."
   }
 ]
