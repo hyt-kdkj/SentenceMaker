@@ -958,5 +958,133 @@
     "sentence1": "The company is looking to invest in up-and-coming startups that show potential for growth.",
     "sentence2": "She is an up-and-coming artist whose work has started to gain recognition in the local galleries.",
     "sentence3": "Many up-and-coming professionals are eager to make their mark in the competitive job market."
+  },
+  {
+    "word": "predominantly",
+    "meanings": "主に、ほとんど、圧倒的に",
+    "synonyms": "mainly, primarily, mostly, chiefly",
+    "sentence1": "The market is predominantly driven by consumer demand.",
+    "sentence2": "Our team is predominantly composed of experienced professionals.",
+    "sentence3": "The region is predominantly known for its agricultural production."
+  },
+  {
+    "word": "make a fuss",
+    "meanings": "大騒ぎする, 騒ぎ立てる",
+    "synonyms": "complain, protest, fuss, whine",
+    "sentence1": "She tends to make a fuss over small details during meetings.",
+    "sentence2": "There's no need to make a fuss about the changes in the schedule.",
+    "sentence3": "He always makes a fuss when things don't go his way."
+  },
+  {
+    "word": "put A into practice",
+    "meanings": "Aを実践する",
+    "synonyms": "implement, execute, apply",
+    "sentence1": "It's time to put our new marketing strategy into practice to see if it yields results.",
+    "sentence2": "After months of planning, we finally put the project into practice last week.",
+    "sentence3": "She was eager to put her innovative ideas into practice during the team meeting."
+  },
+  {
+    "word": "find fault with",
+    "meanings": "欠点を見つける, 批判する",
+    "synonyms": "criticize, complain, censure",
+    "sentence1": "It's easy to find fault with the new policy, but we should also consider its benefits.",
+    "sentence2": "She tends to find fault with every little detail in the project.",
+    "sentence3": "Instead of finding fault with your colleagues, try to offer constructive feedback."
+  },
+  {
+    "word": "take charge of",
+    "meanings": "担当する, 管理する",
+    "synonyms": "manage, oversee, direct",
+    "sentence1": "She was promoted to take charge of the new marketing campaign.",
+    "sentence2": "It's important to take charge of your own career development.",
+    "sentence3": "He decided to take charge of the project to ensure its success."
+  },
+  {
+    "word": "deny",
+    "meanings": "否定する、拒否する",
+    "synonyms": "refuse, reject, disallow, contradict",
+    "sentence1": "The company had to deny the allegations made against it.",
+    "sentence2": "She decided to deny the request for a refund.",
+    "sentence3": "He couldn't deny that he was late for the meeting."
+  },
+  {
+    "word": "there is no point (in) Ving",
+    "meanings": "Vする意味がない",
+    "synonyms": "there's no use, it's pointless, it's futile",
+    "sentence1": "There is no point in arguing about the past; we need to focus on the future.",
+    "sentence2": "She realized there is no point in trying to please everyone.",
+    "sentence3": "If you don't enjoy the work, then there is no point in continuing with it."
+  },
+  {
+    "word": "pose",
+    "meanings": "ポーズをとる, 提起する, 造成する",
+    "synonyms": "present, suggest, introduce",
+    "sentence1": "During the meeting, she decided to pose a question about the new project timeline.",
+    "sentence2": "He likes to pose for photos in front of famous landmarks.",
+    "sentence3": "The company aims to pose itself as a leader in sustainable practices."
+  },
+  {
+    "word": "allegation",
+    "meanings": "主張, 申し立て",
+    "synonyms": "claim, accusation, assertion",
+    "sentence1": "The allegation made against the company was thoroughly investigated by the legal team.",
+    "sentence2": "Despite the serious nature of the allegation, the manager maintained his innocence.",
+    "sentence3": "The board decided to address the allegation publicly to maintain transparency."
+  },
+  {
+    "word": "give more thought to",
+    "meanings": "より多くの考慮をする",
+    "synonyms": "consider, contemplate, reflect on",
+    "sentence1": "Before making a decision, it's important to give more thought to the potential consequences.",
+    "sentence2": "She decided to give more thought to her career options before accepting the job offer.",
+    "sentence3": "The team agreed to give more thought to the project timeline during their next meeting."
+  },
+  {
+    "word": "be sure that",
+    "meanings": "確実に～であることを確認する",
+    "synonyms": "ensure, make sure, confirm",
+    "sentence1": "Please be sure that you submit the report by the deadline.",
+    "sentence2": "I want to be sure that everyone understands the new policy.",
+    "sentence3": "Before you leave, be sure that you have all your documents ready."
+  },
+  {
+    "word": "rush off",
+    "meanings": "急いで出発する, さっと去る",
+    "synonyms": "hurry away, dash off, leave quickly",
+    "sentence1": "I have to rush off to my meeting; I'll call you later.",
+    "sentence2": "She rushed off after receiving the urgent email.",
+    "sentence3": "Don't rush off without saying goodbye!"
+  },
+  {
+    "word": "tell on",
+    "meanings": "告げる, 密告する",
+    "synonyms": "inform, report, betray",
+    "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
+    "sentence2": "He was afraid to tell on his coworker for fear of retaliation.",
+    "sentence3": "It's important to tell on any unethical behavior in the workplace."
+  },
+  {
+    "word": "see to",
+    "meanings": "〜を処理する、〜に気を配る",
+    "synonyms": "attend to, take care of, manage",
+    "sentence1": "Please see to the arrangements for the meeting tomorrow.",
+    "sentence2": "I will see to the report and make sure it's submitted on time.",
+    "sentence3": "Can you see to the client's requests while I'm away?"
+  },
+  {
+    "word": "by all means",
+    "meanings": "ぜひとも, もちろん, どうぞ",
+    "synonyms": "certainly, definitely, of course",
+    "sentence1": "If you have any questions, by all means, ask me.",
+    "sentence2": "You can use my laptop by all means while yours is being repaired.",
+    "sentence3": "If you want to join the meeting, by all means, feel free to come."
+  },
+  {
+    "word": "make it a rule to do",
+    "meanings": "することをルールにする",
+    "synonyms": "establish a guideline, set a standard, enforce a policy",
+    "sentence1": "In our team, we make it a rule to do weekly check-ins to ensure everyone is on track.",
+    "sentence2": "The manager decided to make it a rule to do performance reviews every six months.",
+    "sentence3": "To maintain a healthy work environment, we make it a rule to do regular team-building activities."
   }
 ]
