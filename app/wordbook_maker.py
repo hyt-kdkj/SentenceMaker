@@ -48,6 +48,7 @@ for entry in words:
         y_position -= 0.5*cm
 
     # 例文
+    c.setFont("HeiseiKakuGo-W5", 9)
     for i, sentence in enumerate(sentences, 1):
         c.drawString(2*cm, y_position, f"例文{i}: {sentence}")
         y_position -= 0.5*cm

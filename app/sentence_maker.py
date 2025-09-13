@@ -38,7 +38,8 @@ def build_prompt(word):
     return (
         f"Word: {word}\n"
         "Return ONLY one JSON object with these string fields:"
-        " word, meanings (Japanese), synonyms (English), sentence1, sentence2, sentence3.\n"
+        " word, meanings (Japanese), synonyms (English - comma-separated single string), sentence1, sentence2, sentence3.\n"
+        "For 'synonyms' return a comma-separated string (no arrays).\n"
         "Use natural idiomatic English for example sentences (business/daily TOEIC contexts).\n"
         "Do NOT add any extra text, explanation, or markdown."
     )
@@ -69,6 +70,98 @@ def ensure_valid_json(text):
             pass
 
     return None
+
+def normalize_synonyms_field(obj, max_items=5):
+    """
+    synonyms フィールドを安定化して文字列にする。
+    - obj が dict でなければそのまま返す
+    - synonyms が list/tuple の場合は英単語らしい部分を抽出してカンマ区切りにする
+    - synonyms が文字列でカンマやセミコロンで区切られている場合は整形して返す
+    - max_items は保持する最大語数（余分は切る）
+    """
+    if not isinstance(obj, dict):
+        return obj
+
+    syn = obj.get("synonyms") or obj.get("synonym")
+    if syn is None:
+        # 何もない場合は空文字列をセット
+        obj["synonyms"] = ""
+        return obj
+
+    items = []
+    # リストやタプルなら直接各要素を文字列化
+    if isinstance(syn, (list, tuple)):
+        for v in syn:
+            if isinstance(v, str):
+                items.extend([s.strip() for s in v.replace(';', ',').split(',') if s.strip()])
+            else:
+                # dict などが混ざる場合は文字列化して追加
+                try:
+                    items.append(json.dumps(v, ensure_ascii=False))
+                except Exception:
+                    items.append(str(v))
+
+    elif isinstance(syn, str):
+        # 文字列ならカンマやセミコロン、改行で分割
+        parts = [p.strip() for p in syn.replace(';', ',').replace('\n', ',').split(',')]
+        items = [p for p in parts if p]
+
+    else:
+        # その他の型は文字列化して1要素に
+        items = [str(syn)]
+
+    # 英単語らしいトークンのみを残す（簡易フィルタ）
+    cleaned = []
+    for tok in items:
+        # 括弧や引用を削除
+        t = tok.strip().strip('"\'')
+        # 簡易的に英文字が含まれるものを優先
+        if any(c.isalpha() for c in t):
+            cleaned.append(t)
+        else:
+            # 英文字がない場合でも短い説明文などはそのまま候補に入れる
+            cleaned.append(t)
+
+    # 重複を取り除き、最大数に切る
+    seen = []
+    for c in cleaned:
+        if c not in seen:
+            seen.append(c)
+        if len(seen) >= max_items:
+            break
+
+    obj["synonyms"] = ", ".join(seen)
+    return obj
+
+def normalize_fields_to_strings(obj):
+    """
+    トップレベルのすべてのフィールドを文字列に変換する簡易関数。
+    - list/tuple はカンマ区切りで結合
+    - dict や複雑な要素は JSON 表現で文字列化
+    - None は空文字列に変換
+    """
+    if not isinstance(obj, dict):
+        return obj
+
+    out = {}
+    for k, v in obj.items():
+        if v is None:
+            out[k] = ""
+        elif isinstance(v, (list, tuple)):
+            parts = []
+            for item in v:
+                if isinstance(item, (dict, list, tuple)):
+                    try:
+                        parts.append(json.dumps(item, ensure_ascii=False))
+                    except Exception:
+                        parts.append(str(item))
+                else:
+                    parts.append(str(item))
+            out[k] = ", ".join(parts)
+        else:
+            out[k] = str(v)
+
+    return out
 
 def main():
 
@@ -111,6 +204,14 @@ def main():
             if obj is None:
                 print(f"Warning: API returned non-JSON or malformed JSON for '{word}'. Fallback parsing.", file=sys.stderr)
             else:
+                # synonyms フィールドを安定化
+                obj = normalize_synonyms_field(obj)
+                # 他のフィールドはトップレベル文字列化（既存 safeguard があればそちらを使う）
+                try:
+                    # もし既に normalize_fields_to_strings があれば使う
+                    obj = normalize_fields_to_strings(obj)
+                except NameError:
+                    pass
                 sentences.append(obj)
                 words_set.discard(word)
         else:
