@@ -3385,5 +3385,69 @@
     "sentence1": "She bought some colorful yarn to knit a sweater for her friend.",
     "sentence2": "The factory produces high-quality yarn used in various textile products.",
     "sentence3": "During the meeting, he shared a fascinating yarn about his travels."
+  },
+  {
+    "word": "be put upon",
+    "meanings": "利用される, 迷惑をかけられる",
+    "synonyms": "be exploited, be taken advantage of, be imposed upon",
+    "sentence1": "I often feel like I'm being put upon by my colleagues who always ask for favors.",
+    "sentence2": "It's important to set boundaries so that you don't end up being put upon by others.",
+    "sentence3": "She realized that she had been put upon too many times and decided to speak up."
+  },
+  {
+    "word": "smack of",
+    "meanings": "～の気配がある、～の臭いがする",
+    "synonyms": "suggest, imply, hint at",
+    "sentence1": "His proposal smacks of favoritism, which could lead to distrust among the team.",
+    "sentence2": "The report smacks of bias, making it hard to take the findings seriously.",
+    "sentence3": "Her comments smacked of arrogance, which didn't sit well with the audience."
+  },
+  {
+    "word": "leap out at",
+    "meanings": "目に飛び込む、際立つ",
+    "synonyms": "stand out, catch the eye, attract attention",
+    "sentence1": "The bold colors of the advertisement really leap out at you.",
+    "sentence2": "During the presentation, the key points leaped out at the audience.",
+    "sentence3": "When I read the report, the discrepancies in the data leaped out at me."
+  },
+  {
+    "word": "roll out",
+    "meanings": "展開する, 発表する, 導入する",
+    "synonyms": "launch, introduce, implement",
+    "sentence1": "The company plans to roll out the new software update next month.",
+    "sentence2": "We need to roll out our marketing strategy to reach more customers.",
+    "sentence3": "After months of development, it's finally time to roll out the new product."
+  },
+  {
+    "word": "fly at",
+    "meanings": "攻撃する, 突進する",
+    "synonyms": "attack, charge, assault",
+    "sentence1": "The manager decided to fly at the issue during the meeting to address it head-on.",
+    "sentence2": "When the deadline approached, the team began to fly at their tasks with renewed energy.",
+    "sentence3": "It's important not to fly at your colleagues when disagreements arise; instead, try to discuss the issues calmly."
+  },
+  {
+    "word": "kick up",
+    "meanings": "引き起こす, 増加させる, かき立てる",
+    "synonyms": "raise, increase, stir up",
+    "sentence1": "The manager decided to kick up the marketing efforts to boost sales this quarter.",
+    "sentence2": "We need to kick up our productivity if we want to meet the deadline.",
+    "sentence3": "The team kicked up a lot of excitement with their innovative presentation."
+  },
+  {
+    "word": "make an impression",
+    "meanings": "印象を与える",
+    "synonyms": "leave a mark, create an impact, influence",
+    "sentence1": "It's important to dress well for the interview to make a good impression.",
+    "sentence2": "She always knows how to make an impression at networking events.",
+    "sentence3": "The presentation was designed to make an impression on potential investors."
+  },
+  {
+    "word": "set about",
+    "meanings": "取り掛かる、始める",
+    "synonyms": "begin, start, commence",
+    "sentence1": "After the meeting, we set about drafting the new proposal.",
+    "sentence2": "She set about organizing the event with great enthusiasm.",
+    "sentence3": "Once the project was approved, the team set about implementing the plan."
   }
 ]
