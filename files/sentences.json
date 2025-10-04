@@ -23,6 +23,14 @@
     "sentence3": "The project was abruptly canceled due to budget cuts."
   },
   {
+    "word": "accommodating",
+    "meanings": "融通の利く, 便宜を図る",
+    "synonyms": "obliging, helpful, cooperative",
+    "sentence1": "The hotel staff were very accommodating, ensuring that all our needs were met during our stay.",
+    "sentence2": "She is known for her accommodating nature, always willing to help her colleagues.",
+    "sentence3": "In negotiations, being accommodating can lead to a more favorable outcome for both parties."
+  },
+  {
     "word": "accountable",
     "meanings": "説明責任がある",
     "synonyms": "responsible, answerable, liable",
@@ -31,12 +39,36 @@
     "sentence3": "The company must be accountable to its stakeholders for its financial decisions."
   },
   {
+    "word": "accountable",
+    "meanings": "説明責任がある",
+    "synonyms": "responsible, answerable, liable",
+    "sentence1": "As a manager, I am accountable for the team's performance and results.",
+    "sentence2": "Every employee must be accountable for their actions in the workplace.",
+    "sentence3": "The company is committed to being accountable to its stakeholders."
+  },
+  {
     "word": "acquire",
     "meanings": "取得する, 獲得する",
     "synonyms": "obtain, gain, secure, procure",
     "sentence1": "Our company aims to acquire new technologies to enhance our product line.",
     "sentence2": "She worked hard to acquire the skills necessary for the promotion.",
     "sentence3": "They plan to acquire a smaller firm to expand their market reach."
+  },
+  {
+    "word": "act up",
+    "meanings": "調子が悪くなる, 問題を起こす",
+    "synonyms": "malfunction, misbehave, act out",
+    "sentence1": "The printer started to act up right before the big presentation.",
+    "sentence2": "If your computer is acting up, try restarting it to see if that helps.",
+    "sentence3": "Children sometimes act up when they are tired or hungry."
+  },
+  {
+    "word": "adherent",
+    "meanings": "支持者, 付着物",
+    "synonyms": "supporter, follower, advocate",
+    "sentence1": "The company has a strong adherent base that believes in its mission.",
+    "sentence2": "As an adherent of sustainable practices, she always chooses eco-friendly products.",
+    "sentence3": "The new policy has attracted many adherents who are eager to see positive changes."
   },
   {
     "word": "admit doing",
@@ -70,6 +102,30 @@
     "sentence3": "Affluence can sometimes lead to a disconnect from the struggles of others."
   },
   {
+    "word": "aggravate",
+    "meanings": "悪化させる, いらいらさせる",
+    "synonyms": "exacerbate, intensify, worsen, irritate",
+    "sentence1": "The new policy may aggravate the existing issues within the team.",
+    "sentence2": "He didn't mean to aggravate her feelings, but his comments came off as insensitive.",
+    "sentence3": "Ignoring the problem will only aggravate the situation further."
+  },
+  {
+    "word": "align",
+    "meanings": "整列させる, 一致させる",
+    "synonyms": "arrange, adjust, coordinate",
+    "sentence1": "We need to align our goals with the company's vision for the upcoming year.",
+    "sentence2": "Please align the text to the left before submitting the document.",
+    "sentence3": "It's important to align your team members on the project objectives to ensure success."
+  },
+  {
+    "word": "all but A",
+    "meanings": "Aを除いてすべて",
+    "synonyms": "almost, nearly, practically",
+    "sentence1": "The project is all but complete, with just a few minor details left to finalize.",
+    "sentence2": "She has all but given up on finding a job in her field after months of searching.",
+    "sentence3": "The team has all but secured the contract, pending final approval from management."
+  },
+  {
     "word": "allegation",
     "meanings": "主張, 申し立て",
     "synonyms": "claim, accusation, assertion",
@@ -88,6 +144,14 @@
     "word": "alleviate",
     "meanings": "和らげる, 軽減する",
     "synonyms": "ease, relieve, mitigate",
+    "sentence1": "The new policy aims to alleviate the financial burden on small businesses.",
+    "sentence2": "To alleviate stress, many employees take short breaks throughout the day.",
+    "sentence3": "The charity event was organized to alleviate the suffering of those affected by the disaster."
+  },
+  {
+    "word": "alleviate",
+    "meanings": "和らげる, 軽減する",
+    "synonyms": "ease, relieve, mitigate, lessen",
     "sentence1": "The new policy aims to alleviate the financial burden on small businesses.",
     "sentence2": "To alleviate stress, many employees take short breaks throughout the day.",
     "sentence3": "The charity event was organized to alleviate the suffering of those affected by the disaster."
@@ -116,6 +180,14 @@
     "sentence3": "This training program is applicable to anyone looking to improve their skills."
   },
   {
+    "word": "appraisal",
+    "meanings": "評価, 鑑定",
+    "synonyms": "assessment, evaluation, estimation",
+    "sentence1": "The annual performance appraisal helps employees understand their strengths and areas for improvement.",
+    "sentence2": "Before selling the property, we need to get a professional appraisal to determine its market value.",
+    "sentence3": "Her appraisal of the project was thorough and provided valuable insights for the team."
+  },
+  {
     "word": "arbitrary",
     "meanings": "恣意的な，任意の",
     "synonyms": "random, capricious, whimsical",
@@ -130,6 +202,14 @@
     "sentence1": "I need to arrange a meeting with the client for next week.",
     "sentence2": "Can you help me arrange the files in alphabetical order?",
     "sentence3": "We should arrange transportation for the team to the conference."
+  },
+  {
+    "word": "arrange for A to do",
+    "meanings": "Aに～する手配をする",
+    "synonyms": "organize, schedule, set up",
+    "sentence1": "We need to arrange for the team to meet with the client next week.",
+    "sentence2": "Can you arrange for John to present the report at the meeting?",
+    "sentence3": "I will arrange for the delivery to arrive by Friday."
   },
   {
     "word": "arrangement",
@@ -148,12 +228,52 @@
     "sentence3": "He struggled to articulate his thoughts during the meeting, which made it difficult for others to understand his perspective."
   },
   {
+    "word": "as per",
+    "meanings": "に従って, に基づいて",
+    "synonyms": "according to, in accordance with, in line with",
+    "sentence1": "As per our agreement, the payment is due by the end of the month.",
+    "sentence2": "Please submit the report as per the guidelines provided.",
+    "sentence3": "As per your request, I have attached the documents for your review."
+  },
+  {
+    "word": "assorted",
+    "meanings": "様々な, 各種の",
+    "synonyms": "varied, diverse, mixed",
+    "sentence1": "The store offers an assorted selection of snacks to cater to different tastes.",
+    "sentence2": "We received an assorted range of feedback from our clients after the presentation.",
+    "sentence3": "She brought an assorted collection of documents to the meeting for reference."
+  },
+  {
+    "word": "at any cost",
+    "meanings": "どんな犠牲を払っても",
+    "synonyms": "at all costs, no matter what, regardless of the consequences",
+    "sentence1": "We need to complete this project at any cost to meet the deadline.",
+    "sentence2": "She was determined to win the competition at any cost.",
+    "sentence3": "The company decided to expand its market presence at any cost."
+  },
+  {
     "word": "at full capacity",
     "meanings": "最大容量で",
     "synonyms": "at maximum capacity, at full strength, fully loaded",
     "sentence1": "The factory is operating at full capacity to meet the increased demand for products.",
     "sentence2": "During the holiday season, the hotel is often booked at full capacity.",
     "sentence3": "The server was running at full capacity, causing delays in processing requests."
+  },
+  {
+    "word": "at the cost of",
+    "meanings": "〜の犠牲にして",
+    "synonyms": "at the expense of, sacrificing",
+    "sentence1": "The company decided to expand its operations at the cost of employee benefits.",
+    "sentence2": "She achieved her goals at the cost of her personal relationships.",
+    "sentence3": "They improved their profits at the cost of product quality."
+  },
+  {
+    "word": "at the last minute",
+    "meanings": "ぎりぎりになって、最後の瞬間に",
+    "synonyms": "at the eleventh hour, just in time, at the final moment",
+    "sentence1": "We managed to submit the report at the last minute before the deadline.",
+    "sentence2": "She decided to change her presentation topic at the last minute.",
+    "sentence3": "The flight was delayed, and we booked our tickets at the last minute."
   },
   {
     "word": "at the latest",
@@ -188,6 +308,30 @@
     "sentence3": "The team was avidly preparing for the upcoming competition, determined to win."
   },
   {
+    "word": "back end forth",
+    "meanings": "前後に動く, 行ったり来たりする",
+    "synonyms": "oscillate, fluctuate, sway",
+    "sentence1": "The project team had to back end forth on their decision due to conflicting opinions.",
+    "sentence2": "During the meeting, the discussion seemed to back end forth without reaching a conclusion.",
+    "sentence3": "It's important to avoid back end forth communication to ensure clarity in our messages."
+  },
+  {
+    "word": "backlash",
+    "meanings": "反発, 反動",
+    "synonyms": "reaction, counteraction, repercussion",
+    "sentence1": "The company faced a significant backlash after the controversial decision was announced.",
+    "sentence2": "To avoid backlash from customers, the management decided to revise their policy.",
+    "sentence3": "The politician's remarks triggered a backlash from various community groups."
+  },
+  {
+    "word": "be backed up",
+    "meanings": "バックアップされる, 遅れる",
+    "synonyms": "be supported, be reinforced, be aided",
+    "sentence1": "The project timeline may be delayed if we are backed up by the IT department.",
+    "sentence2": "Due to the heavy traffic, we might be backed up for another hour.",
+    "sentence3": "Make sure all your files are backed up before the system maintenance starts."
+  },
+  {
     "word": "be commensurate with",
     "meanings": "〜に見合った, 〜に相応しい",
     "synonyms": "be equivalent to, be proportional to, match",
@@ -196,12 +340,60 @@
     "sentence3": "The benefits provided by the company are commensurate with the level of commitment expected from employees."
   },
   {
+    "word": "be conscious of",
+    "meanings": "意識する, 気づいている",
+    "synonyms": "be aware of, recognize, notice",
+    "sentence1": "It's important to be conscious of your surroundings when walking in a busy area.",
+    "sentence2": "She is always conscious of her health and makes sure to eat well.",
+    "sentence3": "During meetings, you should be conscious of the time to ensure everyone has a chance to speak."
+  },
+  {
+    "word": "be cut out for",
+    "meanings": "〜に向いている, 〜に適している",
+    "synonyms": "be suited for, be fit for, be made for",
+    "sentence1": "She realized that she was cut out for a career in marketing after her internship.",
+    "sentence2": "If you want to succeed in this field, you need to be cut out for the challenges it presents.",
+    "sentence3": "He always knew he was cut out for teaching, as he enjoyed helping others learn."
+  },
+  {
+    "word": "be cut out to be A",
+    "meanings": "Aになるために向いている",
+    "synonyms": "be suited for, be fit for, be made for",
+    "sentence1": "She is cut out to be a leader, always inspiring those around her.",
+    "sentence2": "If you want to succeed in sales, you need to be cut out to be persuasive.",
+    "sentence3": "He realized he was not cut out to be an accountant after just a few months on the job."
+  },
+  {
+    "word": "be cut out to V",
+    "meanings": "Vするのに向いている",
+    "synonyms": "be suited to, be fit for, be made for",
+    "sentence1": "She is cut out to be a leader, always inspiring her team.",
+    "sentence2": "If you are cut out to work in sales, you will thrive in a competitive environment.",
+    "sentence3": "He realized he was not cut out to be a programmer after struggling with the code."
+  },
+  {
     "word": "be dedicated to",
     "meanings": "〜に専念する，〜に捧げられている",
     "synonyms": "be committed to, be devoted to, be focused on",
     "sentence1": "She is dedicated to improving the company's customer service.",
     "sentence2": "Our team is dedicated to meeting the project deadlines without compromising quality.",
     "sentence3": "He has always been dedicated to his work, often putting in extra hours to ensure success."
+  },
+  {
+    "word": "be found guilty of",
+    "meanings": "有罪とされる",
+    "synonyms": "be convicted of, be sentenced for, be charged with",
+    "sentence1": "After a lengthy trial, he was found guilty of embezzlement.",
+    "sentence2": "If you are found guilty of this offense, you could face significant penalties.",
+    "sentence3": "The jury took only a few hours to decide that she was found guilty of fraud."
+  },
+  {
+    "word": "be found innocent of",
+    "meanings": "無罪であると認定される",
+    "synonyms": "be acquitted of, be cleared of, be exonerated from",
+    "sentence1": "After a lengthy trial, she was finally found innocent of all charges.",
+    "sentence2": "The jury's decision to find him innocent of the crime surprised many in the courtroom.",
+    "sentence3": "He was relieved to be found innocent of the allegations that had tarnished his reputation."
   },
   {
     "word": "be held up",
@@ -252,6 +444,14 @@
     "sentence3": "I'm low on time today, so I won't be able to attend the meeting."
   },
   {
+    "word": "be marked down",
+    "meanings": "値下げされる",
+    "synonyms": "be reduced, be discounted, be lowered",
+    "sentence1": "The store decided to be marked down all winter clothing to clear out inventory.",
+    "sentence2": "If the product is not selling well, it will likely be marked down next week.",
+    "sentence3": "Customers were thrilled to see that the electronics were marked down during the sale."
+  },
+  {
     "word": "be particular about",
     "meanings": "こだわる, 特に気を使う",
     "synonyms": "be specific about, be meticulous about, be fussy about",
@@ -266,6 +466,14 @@
     "sentence1": "She is prone to making impulsive decisions when under pressure.",
     "sentence2": "Our team is prone to delays if we don't stick to the schedule.",
     "sentence3": "He is prone to overthinking, which can slow down his productivity."
+  },
+  {
+    "word": "be scheduled for",
+    "meanings": "〜に予定されている",
+    "synonyms": "be planned for, be arranged for, be set for",
+    "sentence1": "The meeting is scheduled for next Tuesday at 10 AM.",
+    "sentence2": "The project deadline has been scheduled for the end of the month.",
+    "sentence3": "Her presentation is scheduled for the conference next week."
   },
   {
     "word": "be slated to do",
@@ -284,11 +492,35 @@
     "sentence3": "Before you leave, be sure that you have all your documents ready."
   },
   {
+    "word": "be taken in by A",
+    "meanings": "Aに騙される",
+    "synonyms": "be deceived by A, be fooled by A, be misled by A",
+    "sentence1": "I can't believe I was taken in by his charming smile.",
+    "sentence2": "Many investors were taken in by the company's false promises.",
+    "sentence3": "She was taken in by the advertisement and bought the product without checking reviews."
+  },
+  {
+    "word": "be tied up with A",
+    "meanings": "Aに忙しい, Aに関与している",
+    "synonyms": "be occupied with A, be engaged with A, be involved with A",
+    "sentence1": "I'm sorry, but I can't attend the meeting because I'm tied up with a project deadline.",
+    "sentence2": "She was tied up with client calls all afternoon, so she couldn't respond to emails.",
+    "sentence3": "He is tied up with his studies right now, but he will join us later."
+  },
+  {
     "word": "be valid for",
     "meanings": "有効である, 適用される",
     "sentence1": "The discount will be valid for one month from the date of purchase.",
     "sentence2": "Please ensure that your membership is valid for the entire duration of the event.",
     "sentence3": "This contract will be valid for five years unless terminated earlier."
+  },
+  {
+    "word": "bookkeep",
+    "meanings": "帳簿をつける",
+    "synonyms": "record, maintain, manage",
+    "sentence1": "It's essential to bookkeep accurately to ensure financial transparency.",
+    "sentence2": "She decided to bookkeep for her freelance business to keep track of her expenses.",
+    "sentence3": "If you want to apply for a loan, you need to bookkeep your income and expenses for at least a year."
   },
   {
     "word": "bribery",
@@ -299,12 +531,44 @@
     "sentence3": "He was accused of bribery after offering money to a government official."
   },
   {
+    "word": "bring about",
+    "meanings": "引き起こす, もたらす",
+    "synonyms": "cause, produce, effect, create",
+    "sentence1": "The new policy is expected to bring about significant changes in the workplace.",
+    "sentence2": "Efforts to improve communication can bring about better teamwork among employees.",
+    "sentence3": "The recent investment will bring about growth in our market share."
+  },
+  {
     "word": "by all means",
     "meanings": "ぜひとも, もちろん, どうぞ",
     "synonyms": "certainly, definitely, of course",
     "sentence1": "If you have any questions, by all means, ask me.",
     "sentence2": "You can use my laptop by all means while yours is being repaired.",
     "sentence3": "If you want to join the meeting, by all means, feel free to come."
+  },
+  {
+    "word": "by and large",
+    "meanings": "概して, 大体において",
+    "synonyms": "generally, mostly, overall",
+    "sentence1": "By and large, the project has been a success despite some minor setbacks.",
+    "sentence2": "The team, by and large, agreed on the new strategy moving forward.",
+    "sentence3": "By and large, customers have responded positively to the changes we implemented."
+  },
+  {
+    "word": "by means of",
+    "meanings": "〜を使って, 〜によって",
+    "synonyms": "through, via, using",
+    "sentence1": "We were able to complete the project by means of effective teamwork.",
+    "sentence2": "The company improved its efficiency by means of new technology.",
+    "sentence3": "She solved the problem by means of careful analysis."
+  },
+  {
+    "word": "by way of",
+    "meanings": "〜を通じて, 〜の手段として",
+    "synonyms": "through, via, by means of",
+    "sentence1": "We will send the documents by way of email to ensure they arrive quickly.",
+    "sentence2": "She traveled to the conference by way of the scenic route to enjoy the views.",
+    "sentence3": "You can reach customer support by way of our website's contact form."
   },
   {
     "word": "bylaw",
@@ -354,6 +618,14 @@
     "sentence3": "She decided to circulate the invitation to the meeting via email."
   },
   {
+    "word": "cleanse",
+    "meanings": "浄化する, 清める",
+    "synonyms": "purify, wash, sanitize",
+    "sentence1": "It's important to cleanse your skin thoroughly before applying makeup.",
+    "sentence2": "The company decided to cleanse its database of outdated information.",
+    "sentence3": "After a long week, she felt the need to cleanse her mind with a weekend retreat."
+  },
+  {
     "word": "clear out",
     "meanings": "片付ける, 取り除く",
     "synonyms": "empty, remove, evacuate",
@@ -368,6 +640,22 @@
     "sentence1": "She took a clerical position at the law firm to gain experience.",
     "sentence2": "His clerical duties include filing documents and answering phones.",
     "sentence3": "The company is looking for someone with strong clerical skills to assist in the office."
+  },
+  {
+    "word": "collect oneself",
+    "meanings": "自分を落ち着かせる",
+    "synonyms": "compose oneself, regain composure, pull oneself together",
+    "sentence1": "After the unexpected news, she needed a moment to collect herself before responding.",
+    "sentence2": "He took a deep breath to collect himself before giving the presentation.",
+    "sentence3": "It's important to collect yourself after a setback to move forward effectively."
+  },
+  {
+    "word": "commence",
+    "meanings": "開始する",
+    "synonyms": "begin, start, initiate, launch",
+    "sentence1": "The meeting will commence at 10 AM sharp.",
+    "sentence2": "We will commence the project once we receive the necessary approvals.",
+    "sentence3": "Please ensure that all participants are ready before we commence."
   },
   {
     "word": "commend",
@@ -402,6 +690,14 @@
     "sentence3": "The last company retreat helped us strengthen our relationships and improve communication within the team."
   },
   {
+    "word": "compensatory",
+    "meanings": "補償的な",
+    "synonyms": "reparative, compensating, corrective",
+    "sentence1": "The company offered a compensatory package to employees affected by the layoffs.",
+    "sentence2": "She received a compensatory bonus for her outstanding performance last quarter.",
+    "sentence3": "The court awarded compensatory damages to the plaintiff for the losses incurred."
+  },
+  {
     "word": "competitively",
     "meanings": "競争的に",
     "synonyms": "aggressively, assertively, combatively",
@@ -424,6 +720,14 @@
     "sentence1": "I have a concern about the project's timeline.",
     "sentence2": "Her health is a major concern for her family.",
     "sentence3": "We need to address the concerns raised by our clients."
+  },
+  {
+    "word": "conductive",
+    "meanings": "導電性の",
+    "synonyms": "transmissive, guiding, leading",
+    "sentence1": "The material used in the wiring is highly conductive, ensuring efficient energy transfer.",
+    "sentence2": "In a conductive environment, signals can travel quickly and reliably.",
+    "sentence3": "We need to find a more conductive solution for our electrical systems to improve performance."
   },
   {
     "word": "conductor",
@@ -455,6 +759,22 @@
     "sentence1": "To succeed in this company, you must conform to our corporate culture.",
     "sentence2": "The new regulations require all employees to conform to safety standards.",
     "sentence3": "It's important to conform to the guidelines provided during the training session."
+  },
+  {
+    "word": "conform to",
+    "meanings": "従う, 適合する",
+    "synonyms": "comply with, adhere to, follow, obey",
+    "sentence1": "All employees are required to conform to the company's dress code.",
+    "sentence2": "The new software must conform to industry standards to ensure compatibility.",
+    "sentence3": "She decided to conform to the guidelines provided by her supervisor."
+  },
+  {
+    "word": "consciously",
+    "meanings": "意識的に",
+    "synonyms": "deliberately, intentionally, knowingly",
+    "sentence1": "She consciously made an effort to improve her communication skills at work.",
+    "sentence2": "He was consciously aware of the impact his decisions had on the team.",
+    "sentence3": "They chose to consciously invest in sustainable practices for their business."
   },
   {
     "word": "contemplate",
@@ -489,6 +809,14 @@
     "sentence3": "It's important to check the contractor's references before signing the agreement."
   },
   {
+    "word": "contrive",
+    "meanings": "考案する, 仕組む, 画策する",
+    "synonyms": "devise, concoct, engineer, formulate",
+    "sentence1": "We need to contrive a new strategy to improve our sales figures this quarter.",
+    "sentence2": "She managed to contrive a solution to the problem that satisfied everyone involved.",
+    "sentence3": "The team worked together to contrive an innovative approach to the project."
+  },
+  {
     "word": "convey",
     "meanings": "伝える, 表現する",
     "synonyms": "communicate, express, transmit",
@@ -503,6 +831,14 @@
     "sentence1": "The jury decided to convict the defendant after reviewing the evidence.",
     "sentence2": "She felt a sense of relief when the judge chose not to convict her for the minor offense.",
     "sentence3": "In the meeting, we discussed the implications of convicting someone based on circumstantial evidence."
+  },
+  {
+    "word": "convict",
+    "meanings": "有罪判決を下す, 受刑者",
+    "synonyms": "criminal, felon, offender",
+    "sentence1": "The jury decided to convict the defendant after reviewing the evidence.",
+    "sentence2": "She felt a sense of relief when the judge chose not to convict her.",
+    "sentence3": "Many people believe that a convict deserves a second chance at life."
   },
   {
     "word": "courtesy of",
@@ -520,6 +856,14 @@
     "sentence3": "We arranged the furniture to create a cozy corner for meetings."
   },
   {
+    "word": "cramped",
+    "meanings": "狭い, 窮屈な",
+    "synonyms": "confined, restricted, tight",
+    "sentence1": "The office space felt cramped with all the new furniture.",
+    "sentence2": "After adding more employees, the break room became too cramped for everyone.",
+    "sentence3": "She found it difficult to concentrate in the cramped meeting room."
+  },
+  {
     "word": "credential",
     "meanings": "資格, 信任状",
     "synonyms": "qualification, certification, endorsement",
@@ -528,12 +872,44 @@
     "sentence3": "The university requires all applicants to provide their academic credentials."
   },
   {
+    "word": "cross A's mind",
+    "meanings": "Aの心に浮かぶ",
+    "synonyms": "occur to A, come to A's mind, strike A",
+    "sentence1": "It never crossed my mind that she would leave the company.",
+    "sentence2": "When the idea crossed my mind, I knew it could be a game changer.",
+    "sentence3": "I was surprised when it crossed his mind to propose such an innovative solution."
+  },
+  {
+    "word": "curator",
+    "meanings": "館長",
+    "synonyms": "keeper, custodian, manager",
+    "sentence1": "The curator organized an impressive exhibition that attracted many visitors.",
+    "sentence2": "As a curator, she is responsible for selecting the artworks displayed in the gallery.",
+    "sentence3": "The museum's curator gave a fascinating lecture about the history of the collection."
+  },
+  {
+    "word": "cut corners",
+    "meanings": "手抜きをする, コストを削減する",
+    "synonyms": "skimp, economize, save",
+    "sentence1": "In an effort to save money, the company decided to cut corners on the project.",
+    "sentence2": "If you cut corners on your research, the quality of your work will suffer.",
+    "sentence3": "It's tempting to cut corners when you're under pressure, but it's not worth the risk."
+  },
+  {
     "word": "deal",
     "meanings": "取引, 合意, 処理",
     "synonyms": "agreement, arrangement, transaction",
     "sentence1": "We need to finalize the deal by the end of the week.",
     "sentence2": "She made a great deal on her new car.",
     "sentence3": "Let's deal with this issue before it escalates."
+  },
+  {
+    "word": "decentralize",
+    "meanings": "分散化する",
+    "synonyms": "distribute, disperse, delegate",
+    "sentence1": "The company decided to decentralize its operations to improve efficiency.",
+    "sentence2": "By choosing to decentralize decision-making, the organization empowered its local managers.",
+    "sentence3": "Decentralizing the network can lead to better resource allocation and faster response times."
   },
   {
     "word": "deception",
@@ -552,12 +928,36 @@
     "sentence3": "He received a tax deduction for his charitable contributions last year."
   },
   {
+    "word": "defer",
+    "meanings": "延期する, 後回しにする",
+    "synonyms": "postpone, delay, put off",
+    "sentence1": "We decided to defer the meeting until next week to allow everyone to prepare.",
+    "sentence2": "It's important to defer decisions until all the necessary information is available.",
+    "sentence3": "She chose to defer her enrollment in the program to focus on her current job."
+  },
+  {
     "word": "defiance",
     "meanings": "反抗，挑戦",
     "synonyms": "resistance, opposition, challenge",
     "sentence1": "The employee showed defiance by refusing to follow the new company policy.",
     "sentence2": "Her defiance in the face of criticism impressed her colleagues.",
     "sentence3": "In a moment of defiance, he decided to pursue his own ideas instead of conforming to the team's plan."
+  },
+  {
+    "word": "defy",
+    "meanings": "拒む, 逆らう, 挑戦する",
+    "synonyms": "resist, challenge, confront",
+    "sentence1": "She decided to defy the odds and start her own business despite the challenges.",
+    "sentence2": "The athlete managed to defy expectations by winning the championship.",
+    "sentence3": "It's important to defy negative thoughts and stay focused on your goals."
+  },
+  {
+    "word": "deliberate",
+    "meanings": "故意の, 熟考された",
+    "synonyms": "intentional, purposeful, calculated",
+    "sentence1": "The team made a deliberate decision to invest in new technology.",
+    "sentence2": "She spoke in a deliberate manner to ensure everyone understood her point.",
+    "sentence3": "After a deliberate review of the proposal, they decided to move forward."
   },
   {
     "word": "deliberation",
@@ -567,12 +967,36 @@
     "sentence3": "Deliberation is essential when planning a successful marketing strategy."
   },
   {
+    "word": "deliberation",
+    "meanings": "熟考, 審議",
+    "synonyms": "consideration, contemplation, discussion, reflection",
+    "sentence1": "The board meeting was filled with deliberation before making the final decision.",
+    "sentence2": "After much deliberation, they decided to invest in the new project.",
+    "sentence3": "Her deliberation on the matter showed her commitment to making the right choice."
+  },
+  {
+    "word": "demographic",
+    "meanings": "人口統計の",
+    "synonyms": "population, statistical, census",
+    "sentence1": "The company analyzed the demographic trends to better target their marketing efforts.",
+    "sentence2": "Understanding the demographic shifts in the area can help businesses make informed decisions.",
+    "sentence3": "The report provided valuable insights into the demographic characteristics of the local population."
+  },
+  {
     "word": "deny",
     "meanings": "否定する，拒否する",
     "synonyms": "refuse, reject, disallow, contradict",
     "sentence1": "The company had to deny the allegations made against it.",
     "sentence2": "She decided to deny the request for a refund.",
     "sentence3": "He couldn't deny that he was late for the meeting."
+  },
+  {
+    "word": "deplete",
+    "meanings": "枯渇させる、減少させる",
+    "synonyms": "exhaust, drain, diminish",
+    "sentence1": "The company's resources were severely depleted after the extensive marketing campaign.",
+    "sentence2": "If we continue to deplete our natural resources at this rate, future generations will face serious challenges.",
+    "sentence3": "The team worked hard to replenish the stock after it was depleted during the sale."
   },
   {
     "word": "depreciation",
@@ -591,12 +1015,52 @@
     "sentence3": "As a deputy, he is responsible for making decisions when the manager is unavailable."
   },
   {
+    "word": "despair",
+    "meanings": "絶望",
+    "synonyms": "hopelessness, despondency, gloom",
+    "sentence1": "After receiving the news of the project's cancellation, she felt a deep sense of despair.",
+    "sentence2": "In times of crisis, it's important not to give in to despair and to seek solutions.",
+    "sentence3": "His despair was evident as he struggled to find a way to overcome the challenges ahead."
+  },
+  {
     "word": "detain",
     "meanings": "拘留する, 引き留める, 逮捕する",
     "synonyms": "hold, delay, restrain",
     "sentence1": "The security team may detain anyone who is acting suspiciously.",
     "sentence2": "We need to detain the shipment until we receive the necessary documents.",
     "sentence3": "The police had to detain the suspect for further questioning."
+  },
+  {
+    "word": "detain",
+    "meanings": "拘留する, 引き留める",
+    "synonyms": "hold, confine, keep, restrain",
+    "sentence1": "The police decided to detain the suspect for further questioning.",
+    "sentence2": "Due to the weather conditions, they had to detain the passengers at the airport.",
+    "sentence3": "The company may detain your application if all required documents are not submitted."
+  },
+  {
+    "word": "deviate",
+    "meanings": "逸脱する, 外れる",
+    "synonyms": "diverge, stray, depart",
+    "sentence1": "It's important to stay on track and not deviate from the project plan.",
+    "sentence2": "If you deviate from the established guidelines, it could lead to confusion among the team.",
+    "sentence3": "The company decided to deviate from its usual marketing strategy to attract a younger audience."
+  },
+  {
+    "word": "devise",
+    "meanings": "考案する, 工夫する, 計画する",
+    "synonyms": "create, formulate, invent, design",
+    "sentence1": "We need to devise a new strategy to improve our sales performance.",
+    "sentence2": "The team worked late into the night to devise a solution to the problem.",
+    "sentence3": "She was able to devise a plan that satisfied all parties involved."
+  },
+  {
+    "word": "discreet",
+    "meanings": "慎重な, 控えめな",
+    "synonyms": "tactful, prudent, circumspect",
+    "sentence1": "It's important to be discreet when discussing sensitive information at work.",
+    "sentence2": "She made a discreet inquiry about the job opening without drawing attention.",
+    "sentence3": "He was discreet in his comments, ensuring he didn't offend anyone."
   },
   {
     "word": "discrepancy",
@@ -646,6 +1110,22 @@
     "sentence3": "It's important to minimize distractions during meetings to ensure everyone stays focused."
   },
   {
+    "word": "diversion",
+    "meanings": "気晴らし, 逸脱, 方向転換",
+    "synonyms": "distraction, detour, deviation",
+    "sentence1": "Taking a short break for a diversion can help improve productivity at work.",
+    "sentence2": "The company organized a team-building event as a diversion from the usual routine.",
+    "sentence3": "He found that a quick diversion, like a walk outside, helped clear his mind before the meeting."
+  },
+  {
+    "word": "drag out",
+    "meanings": "引き延ばす, 長引かせる",
+    "synonyms": "prolong, extend, delay",
+    "sentence1": "We need to avoid dragging out the meeting any longer than necessary.",
+    "sentence2": "The negotiations were dragged out for weeks without any resolution.",
+    "sentence3": "She tends to drag out her responses, making it hard to stay engaged in the conversation."
+  },
+  {
     "word": "drainage",
     "meanings": "排水, 排水システム",
     "synonyms": "discharge, runoff, drainage system",
@@ -662,6 +1142,14 @@
     "sentence3": "The designer recommended using bold colors for the drapery to make a statement."
   },
   {
+    "word": "draw on A",
+    "meanings": "Aを利用する, Aに頼る",
+    "synonyms": "rely on, utilize, depend on",
+    "sentence1": "In order to complete the project successfully, we need to draw on our previous experiences.",
+    "sentence2": "The company decided to draw on its extensive network of contacts to find new clients.",
+    "sentence3": "She often draws on her creativity to solve complex problems at work."
+  },
+  {
     "word": "dubious",
     "meanings": "疑わしい, 不確かな, あやしい",
     "synonyms": "questionable, doubtful, uncertain",
@@ -676,6 +1164,14 @@
     "sentence1": "The earlier model of this smartphone had fewer features than the latest release.",
     "sentence2": "We decided to sell the earlier model at a discounted price to clear out inventory.",
     "sentence3": "Many customers prefer the earlier model because it is more user-friendly."
+  },
+  {
+    "word": "eat up",
+    "meanings": "食べ尽くす, 完全に消費する",
+    "synonyms": "consume, devour, finish",
+    "sentence1": "We need to eat up all the leftovers before they spoil.",
+    "sentence2": "The children ate up their dinner in no time.",
+    "sentence3": "Make sure to eat up your snacks during the meeting."
   },
   {
     "word": "editorial",
@@ -701,11 +1197,27 @@
     "sentence3": "Her emergence as a leader was unexpected but welcomed by the team."
   },
   {
+    "word": "encourage",
+    "meanings": "励ます, 勇気づける",
+    "synonyms": "inspire, motivate, support",
+    "sentence1": "It's important to encourage your team members to share their ideas during meetings.",
+    "sentence2": "She always knows how to encourage her friends when they are feeling down.",
+    "sentence3": "The manager decided to encourage innovation by providing more resources for creative projects."
+  },
+  {
     "word": "endorse",
     "meanings": "支持する，承認する",
     "sentence1": "The manager decided to endorse the new marketing strategy after reviewing its potential benefits.",
     "sentence2": "Many celebrities endorse products to increase their visibility and sales.",
     "sentence3": "Before signing the contract, make sure to endorse the terms that you agree with."
+  },
+  {
+    "word": "endorse",
+    "meanings": "支持する, 承認する",
+    "synonyms": "support, approve, back, advocate",
+    "sentence1": "The company decided to endorse the new marketing strategy to boost sales.",
+    "sentence2": "She was happy to endorse her colleague's proposal during the meeting.",
+    "sentence3": "Many celebrities endorse this brand, which has helped increase its popularity."
   },
   {
     "word": "engagement",
@@ -714,6 +1226,14 @@
     "sentence1": "The company's engagement with its customers has significantly improved its brand loyalty.",
     "sentence2": "We need to increase employee engagement to boost productivity and morale.",
     "sentence3": "Her engagement in community service reflects her dedication to social responsibility."
+  },
+  {
+    "word": "engagement",
+    "meanings": "関与, 約束, 婚約",
+    "synonyms": "involvement, commitment, participation",
+    "sentence1": "The company's engagement with its customers has improved significantly over the past year.",
+    "sentence2": "She accepted his proposal, marking the beginning of their engagement.",
+    "sentence3": "Employee engagement is crucial for maintaining high productivity levels."
   },
   {
     "word": "ensure",
@@ -757,6 +1277,14 @@
     "meanings": "迅速に進める，促進する",
     "sentence1": "We need to expedite the approval process to meet the project deadline.",
     "sentence2": "The manager asked the team to expedite the delivery of the new software.",
+    "sentence3": "To expedite customer service, we implemented a new ticketing system."
+  },
+  {
+    "word": "expedite",
+    "meanings": "迅速に進める、促進する",
+    "synonyms": "accelerate, hasten, facilitate",
+    "sentence1": "We need to expedite the approval process to meet the project deadline.",
+    "sentence2": "The manager asked the team to find ways to expedite the delivery of materials.",
     "sentence3": "To expedite customer service, we implemented a new ticketing system."
   },
   {
@@ -824,6 +1352,22 @@
     "sentence3": "She took some time to familiarize herself with the new team dynamics."
   },
   {
+    "word": "file a complaint with",
+    "meanings": "苦情を申し立てる",
+    "synonyms": "lodge a complaint, submit a grievance, report an issue",
+    "sentence1": "If you are not satisfied with the service, you should file a complaint with the manager.",
+    "sentence2": "She decided to file a complaint with the customer service department after her issue was not resolved.",
+    "sentence3": "It's important to file a complaint with the appropriate authorities if you believe your rights have been violated."
+  },
+  {
+    "word": "fill in for",
+    "meanings": "代わりに働く, 代理を務める",
+    "synonyms": "substitute, stand in, take over",
+    "sentence1": "I need someone to fill in for me while I'm on vacation next week.",
+    "sentence2": "Can you fill in for John during the meeting tomorrow?",
+    "sentence3": "She agreed to fill in for her colleague who was sick."
+  },
+  {
     "word": "finalize",
     "meanings": "最終決定する, 完成させる",
     "synonyms": "complete, conclude, finish",
@@ -856,6 +1400,14 @@
     "sentence3": "The office's new furniture fixtures were designed to enhance collaboration among team members."
   },
   {
+    "word": "flaky",
+    "meanings": "不安定な, 信頼できない",
+    "synonyms": "unreliable, erratic, inconsistent",
+    "sentence1": "The flaky software caused several issues during the presentation.",
+    "sentence2": "I can't rely on him; he's too flaky to meet deadlines.",
+    "sentence3": "Her flaky behavior made it difficult for the team to trust her."
+  },
+  {
     "word": "flawless",
     "meanings": "完璧な，欠点のない",
     "sentence1": "Her presentation was flawless, impressing everyone in the meeting.",
@@ -879,12 +1431,36 @@
     "sentence3": "It's important for fashion retailers to follow the trend to meet customer expectations."
   },
   {
+    "word": "for good",
+    "meanings": "永遠に, ずっと",
+    "synonyms": "permanently, forever, indefinitely",
+    "sentence1": "She decided to move to another city for good after finding a new job.",
+    "sentence2": "Once the changes are implemented, the old system will be retired for good.",
+    "sentence3": "They made a pact to stay friends for good, no matter what happens."
+  },
+  {
+    "word": "for the time being",
+    "meanings": "当面の間",
+    "synonyms": "temporarily, for now, for the moment",
+    "sentence1": "We will use the old software for the time being until the new version is ready.",
+    "sentence2": "For the time being, let's focus on completing the current project before starting anything new.",
+    "sentence3": "The team has decided to work remotely for the time being due to the ongoing situation."
+  },
+  {
     "word": "foreman",
     "meanings": "作業長, 現場監督",
     "synonyms": "supervisor, manager, overseer",
     "sentence1": "The foreman ensured that all workers followed safety protocols on the construction site.",
     "sentence2": "As the foreman, he was responsible for coordinating the team and meeting project deadlines.",
     "sentence3": "The foreman held a meeting to discuss the progress and address any issues that had arisen."
+  },
+  {
+    "word": "forfeit",
+    "meanings": "喪失する, 失う",
+    "synonyms": "relinquish, surrender, lose",
+    "sentence1": "If you fail to meet the deadline, you may forfeit your chance to participate in the project.",
+    "sentence2": "The company had to forfeit its rights to the patent after missing the renewal date.",
+    "sentence3": "He decided to forfeit his bonus rather than compromise his principles."
   },
   {
     "word": "forge",
@@ -910,12 +1486,28 @@
     "sentence3": "If you get a chance to meet the CEO, make sure to introduce yourself."
   },
   {
+    "word": "get a kick out of A",
+    "meanings": "Aを楽しむ, Aに興奮する",
+    "synonyms": "enjoy, appreciate, take pleasure in",
+    "sentence1": "I really get a kick out of watching stand-up comedy on weekends.",
+    "sentence2": "She gets a kick out of trying new foods whenever she travels.",
+    "sentence3": "He gets a kick out of playing video games with his friends after work."
+  },
+  {
     "word": "get acquainted with",
     "meanings": "知り合う，親しくなる",
     "synonyms": "meet, familiarize, introduce",
     "sentence1": "Before starting the project, it's important to get acquainted with the team members.",
     "sentence2": "I took some time to get acquainted with the new software before the training session.",
     "sentence3": "During the conference, attendees will have opportunities to get acquainted with industry leaders."
+  },
+  {
+    "word": "get across",
+    "meanings": "伝える, 通す, 渡す",
+    "synonyms": "communicate, convey, express",
+    "sentence1": "It's important to get your ideas across clearly during the presentation.",
+    "sentence2": "She struggled to get her point across in the meeting.",
+    "sentence3": "We need to find a way to get the message across to all employees."
   },
   {
     "word": "get off the phone",
@@ -940,6 +1532,14 @@
     "sentence1": "Before making a decision, it's important to give more thought to the potential consequences.",
     "sentence2": "She decided to give more thought to her career options before accepting the job offer.",
     "sentence3": "The team agreed to give more thought to the project timeline during their next meeting."
+  },
+  {
+    "word": "go about",
+    "meanings": "取り組む, 行動する",
+    "synonyms": "proceed, undertake, engage",
+    "sentence1": "We need to go about improving our customer service to retain clients.",
+    "sentence2": "She decided to go about her research in a more organized manner this time.",
+    "sentence3": "It's important to go about the project methodically to ensure success."
   },
   {
     "word": "go above and beyond",
@@ -973,6 +1573,14 @@
     "sentence3": "The grandeur of the annual conference left a lasting impression on all attendees."
   },
   {
+    "word": "grant",
+    "meanings": "授与する, 与える, 認める",
+    "synonyms": "award, bestow, confer",
+    "sentence1": "The university decided to grant scholarships to deserving students.",
+    "sentence2": "She was thrilled when her request for additional funding was granted.",
+    "sentence3": "The government will grant permission for the new construction project next month."
+  },
+  {
     "word": "hamper",
     "meanings": "妨げる, 制限する, 進行を妨げる",
     "synonyms": "hinder, obstruct, impede",
@@ -995,6 +1603,14 @@
     "sentence1": "Please hand in your reports by the end of the day.",
     "sentence2": "I need to hand in my application before the deadline.",
     "sentence3": "Don't forget to hand in your homework tomorrow."
+  },
+  {
+    "word": "hand in hand",
+    "meanings": "手を取り合って, 密接に関連して",
+    "synonyms": "together, in conjunction, side by side",
+    "sentence1": "The marketing and sales teams worked hand in hand to launch the new product successfully.",
+    "sentence2": "In a successful project, planning and execution go hand in hand.",
+    "sentence3": "The two departments must collaborate hand in hand to achieve the company's goals."
   },
   {
     "word": "handle",
@@ -1021,12 +1637,36 @@
     "sentence3": "After the call, she realized she should have hung up sooner."
   },
   {
+    "word": "have an effect on A",
+    "meanings": "Aに影響を与える",
+    "synonyms": "influence, impact, affect",
+    "sentence1": "The new marketing strategy will have an effect on our sales figures this quarter.",
+    "sentence2": "It's important to understand how external factors can have an effect on employee morale.",
+    "sentence3": "The recent changes in policy may have an effect on the company's overall performance."
+  },
+  {
+    "word": "have one's own way",
+    "meanings": "自分の思い通りにする",
+    "synonyms": "get one's way, have one's way, do as one pleases",
+    "sentence1": "In negotiations, it's important to find a compromise rather than insisting on having your own way.",
+    "sentence2": "She always tries to have her own way, even if it means disregarding others' opinions.",
+    "sentence3": "If you want to succeed in a team environment, you can't always have your own way."
+  },
+  {
     "word": "head out",
     "meanings": "出発する, 外出する",
     "synonyms": "leave, depart, set off",
     "sentence1": "Let's head out early to avoid the traffic.",
     "sentence2": "I usually head out for lunch around noon.",
     "sentence3": "They decided to head out for a weekend getaway."
+  },
+  {
+    "word": "hold off",
+    "meanings": "延期する, 遅らせる, 退ける",
+    "synonyms": "delay, postpone, defer",
+    "sentence1": "We decided to hold off on the project until we receive more funding.",
+    "sentence2": "Can we hold off making a decision until next week?",
+    "sentence3": "The manager asked us to hold off on the announcement until the details are finalized."
   },
   {
     "word": "holiday supply",
@@ -1060,6 +1700,22 @@
     "sentence3": "Effective communication is imperative for a successful team collaboration."
   },
   {
+    "word": "imperative",
+    "meanings": "命令的な, 必須の, 極めて重要な",
+    "synonyms": "essential, crucial, vital",
+    "sentence1": "It's imperative that we meet the project deadline to maintain client satisfaction.",
+    "sentence2": "In today's competitive market, having a strong online presence is imperative for success.",
+    "sentence3": "The manager emphasized that it is imperative for all team members to communicate effectively."
+  },
+  {
+    "word": "in a nutshell",
+    "meanings": "要するに",
+    "synonyms": "in summary, briefly, in short",
+    "sentence1": "In a nutshell, we need to improve our marketing strategy to boost sales.",
+    "sentence2": "The report was long, but the conclusion was presented in a nutshell.",
+    "sentence3": "She explained the project in a nutshell, making it easy for everyone to understand."
+  },
+  {
     "word": "in a timely manner",
     "meanings": "適時に，時間通りに，直ちに",
     "synonyms": "promptly, on time, without delay",
@@ -1082,6 +1738,14 @@
     "sentence1": "If you think the presentation was impressive, just wait until you see the new product launch; you're in for a treat.",
     "sentence2": "The team has planned a surprise celebration for the project's success, so everyone is in for a treat this Friday.",
     "sentence3": "After hearing about the new restaurant opening downtown, I can tell you're in for a treat when you visit."
+  },
+  {
+    "word": "in good faith",
+    "meanings": "誠実に, 善意で",
+    "synonyms": "honestly, sincerely, with integrity",
+    "sentence1": "We entered into the contract in good faith, believing both parties would uphold their end of the agreement.",
+    "sentence2": "The negotiations were conducted in good faith, aiming for a mutually beneficial outcome.",
+    "sentence3": "It's important to act in good faith when dealing with clients to build trust and long-term relationships."
   },
   {
     "word": "in keeping with",
@@ -1116,6 +1780,14 @@
     "sentence3": "In regard to the meeting, please ensure all reports are submitted by Friday."
   },
   {
+    "word": "in the know",
+    "meanings": "情報通である, 知識がある",
+    "synonyms": "informed, aware, knowledgeable",
+    "sentence1": "She always seems to be in the know about the latest trends in the industry.",
+    "sentence2": "If you want to stay competitive, you need to be in the know regarding market changes.",
+    "sentence3": "Being in the know can give you an advantage in negotiations."
+  },
+  {
     "word": "in the meantime",
     "meanings": "その間に, 同時に",
     "synonyms": "meanwhile, concurrently, at the same time",
@@ -1129,6 +1801,38 @@
     "sentence1": "She inadvertently sent the email to the wrong recipient, causing a misunderstanding.",
     "sentence2": "The report was inadvertently left out of the presentation, which led to confusion among the team.",
     "sentence3": "He inadvertently revealed the company's confidential information during the meeting."
+  },
+  {
+    "word": "inform A of B",
+    "meanings": "AにBを知らせる",
+    "synonyms": "notify, advise, update",
+    "sentence1": "Please inform the team of the changes to the project timeline.",
+    "sentence2": "I will inform you of any updates regarding the meeting schedule.",
+    "sentence3": "It is important to inform customers of any potential delays in their orders."
+  },
+  {
+    "word": "inscrutable",
+    "meanings": "不可解な, 謎めいた",
+    "synonyms": "enigmatic, mysterious, unreadable",
+    "sentence1": "The CEO's inscrutable expression made it difficult to gauge his reaction to the proposal.",
+    "sentence2": "Despite her inscrutable demeanor, she had a wealth of knowledge about the industry.",
+    "sentence3": "The inscrutable nature of the market trends left many investors feeling uncertain."
+  },
+  {
+    "word": "instruction",
+    "meanings": "指示, 教育, 指導",
+    "synonyms": "direction, guidance, order",
+    "sentence1": "The manager provided clear instructions for the new project.",
+    "sentence2": "Please follow the instructions carefully to avoid any mistakes.",
+    "sentence3": "The training session included detailed instructions on how to use the software."
+  },
+  {
+    "word": "insulation",
+    "meanings": "絶縁, 断熱, 隔離",
+    "synonyms": "protection, shielding, covering",
+    "sentence1": "The insulation in the walls helps to keep the office warm during winter.",
+    "sentence2": "We need to improve the insulation in our building to reduce energy costs.",
+    "sentence3": "Proper insulation can significantly enhance the comfort of any workspace."
   },
   {
     "word": "intrigue",
@@ -1163,6 +1867,22 @@
     "sentence3": "It's important to show appreciation for the hard work of the janitor in our building."
   },
   {
+    "word": "judicious",
+    "meanings": "賢明な, 慎重な",
+    "synonyms": "wise, prudent, sensible, careful",
+    "sentence1": "The manager made a judicious decision to invest in new technology.",
+    "sentence2": "Her judicious approach to budgeting helped the company save money.",
+    "sentence3": "It's important to be judicious when choosing your business partners."
+  },
+  {
+    "word": "juggle",
+    "meanings": "ジャグリングする, 同時にいくつかのことをこなす",
+    "synonyms": "manage, balance, handle",
+    "sentence1": "She has to juggle her job and her studies effectively.",
+    "sentence2": "It's challenging to juggle multiple projects at once.",
+    "sentence3": "He learned to juggle his responsibilities to meet deadlines."
+  },
+  {
     "word": "junk mail",
     "meanings": "迷惑メール",
     "synonyms": "spam, unsolicited mail, bulk mail",
@@ -1177,6 +1897,22 @@
     "sentence1": "She decided to keep her promotion to herself until the official announcement.",
     "sentence2": "It's best to keep your ideas to yourself until you're ready to share them.",
     "sentence3": "He tends to keep his personal life to himself, rarely discussing it with colleagues."
+  },
+  {
+    "word": "keep off",
+    "meanings": "立ち入らない, 遠ざける",
+    "synonyms": "stay away, avoid, refrain from",
+    "sentence1": "Please keep off the grass to help it grow.",
+    "sentence2": "The sign clearly says to keep off the restricted area.",
+    "sentence3": "It's best to keep off any topics that might cause disagreement during the meeting."
+  },
+  {
+    "word": "keep one's eyes open",
+    "meanings": "注意を払う, 警戒する",
+    "synonyms": "stay alert, be vigilant, watch out",
+    "sentence1": "During the meeting, it's important to keep your eyes open for any potential opportunities.",
+    "sentence2": "As you navigate through the city, make sure to keep your eyes open for any signs of danger.",
+    "sentence3": "To succeed in this competitive market, you need to keep your eyes open for emerging trends."
   },
   {
     "word": "leave behind",
@@ -1218,6 +1954,22 @@
     "sentence3": "The line of reasoning presented in the report was very convincing."
   },
   {
+    "word": "live from hand to mouth",
+    "meanings": "日々の生活に困窮する",
+    "synonyms": "make ends meet, live paycheck to paycheck, struggle financially",
+    "sentence1": "Many freelancers live from hand to mouth, never knowing when their next paycheck will arrive.",
+    "sentence2": "Despite his hard work, he found himself living from hand to mouth due to rising living costs.",
+    "sentence3": "It's difficult to save for the future when you are constantly living from hand to mouth."
+  },
+  {
+    "word": "live with",
+    "meanings": "共に生活する, 受け入れる",
+    "synonyms": "cohabit, coexist, endure",
+    "sentence1": "It's important to live with your decisions and learn from them.",
+    "sentence2": "She decided to live with her parents while saving for a new apartment.",
+    "sentence3": "To succeed in this industry, you must learn to live with uncertainty."
+  },
+  {
     "word": "loaner",
     "meanings": "貸出品, 貸し出し車, 代替品",
     "synonyms": "lender, borrower, renter",
@@ -1232,6 +1984,22 @@
     "sentence1": "If you're looking for a reliable supplier, look no further than our company.",
     "sentence2": "For the best coffee in town, look no further than this café.",
     "sentence3": "When it comes to quality service, you should look no further than our team."
+  },
+  {
+    "word": "loot",
+    "meanings": "戦利品, 奪った物",
+    "synonyms": "plunder, pillage, spoils",
+    "sentence1": "The soldiers returned home with the loot they had gathered during the campaign.",
+    "sentence2": "After the festival, the children were excited to show off their loot from the treasure hunt.",
+    "sentence3": "The company was accused of looting resources from the local community without any compensation."
+  },
+  {
+    "word": "lunatic",
+    "meanings": "狂人, 精神異常者",
+    "synonyms": "maniac, madman, crazy person",
+    "sentence1": "The proposal seemed lunatic to everyone in the meeting, but he was convinced it would work.",
+    "sentence2": "She felt like a lunatic for staying up all night to finish the project.",
+    "sentence3": "His lunatic ideas often led to innovative solutions that others wouldn't consider."
   },
   {
     "word": "lure",
@@ -1305,6 +2073,14 @@
     "sentence3": "The results of the survey manifest a clear need for improvement in customer service."
   },
   {
+    "word": "markdown",
+    "meanings": "値下げ, マークダウン",
+    "synonyms": "discount, reduction, price cut",
+    "sentence1": "The store is offering a markdown on all winter clothing to clear out inventory.",
+    "sentence2": "After reviewing the sales data, we decided to implement a markdown on the slow-moving items.",
+    "sentence3": "She was thrilled to find a markdown on her favorite brand of shoes during the sale."
+  },
+  {
     "word": "meeting minutes",
     "meanings": "会議の議事録",
     "synonyms": "notes, record, documentation",
@@ -1313,12 +2089,28 @@
     "sentence3": "She took detailed meeting minutes to capture all the key points discussed."
   },
   {
+    "word": "meticulously",
+    "meanings": "細心の注意を払って, 綿密に",
+    "synonyms": "carefully, precisely, thoroughly",
+    "sentence1": "She meticulously reviewed the report before submitting it to her manager.",
+    "sentence2": "The architect planned the project meticulously to avoid any costly mistakes.",
+    "sentence3": "He meticulously organized his schedule to maximize productivity throughout the week."
+  },
+  {
     "word": "mitigate",
     "meanings": "和らげる, 軽減する",
     "synonyms": "alleviate, reduce, lessen, soften",
     "sentence1": "The company implemented new policies to mitigate the impact of the economic downturn.",
     "sentence2": "To mitigate risks, we conducted a thorough analysis before launching the project.",
     "sentence3": "She took steps to mitigate her stress by practicing mindfulness and time management."
+  },
+  {
+    "word": "move over",
+    "meanings": "移動する, どかす",
+    "synonyms": "shift, adjust, reposition",
+    "sentence1": "Could you please move over a bit so I can sit down?",
+    "sentence2": "The manager asked the team to move over to the new office space next week.",
+    "sentence3": "As the bus approached, the pedestrians had to move over to make way."
   },
   {
     "word": "mutate",
@@ -1337,12 +2129,28 @@
     "sentence3": "It's important to narrow down the scope of the project to meet the deadline."
   },
   {
+    "word": "notify A of B",
+    "meanings": "AにBを通知する",
+    "synonyms": "inform, alert, advise",
+    "sentence1": "Please notify me of any changes to the schedule.",
+    "sentence2": "I will notify the team of the new project deadlines.",
+    "sentence3": "Can you notify the clients of the upcoming meeting?"
+  },
+  {
     "word": "nurture",
     "meanings": "育てる, 養う, 大切に育てる",
     "synonyms": "cultivate, foster, support",
     "sentence1": "It is important to nurture talent within the organization to ensure long-term success.",
     "sentence2": "The manager decided to nurture the new project by allocating additional resources.",
     "sentence3": "We must nurture our client relationships to maintain a competitive edge in the market."
+  },
+  {
+    "word": "offset",
+    "meanings": "オフセット, 補償, 相殺",
+    "synonyms": "counterbalance, compensate, counteract",
+    "sentence1": "The company implemented a new strategy to offset the rising costs of production.",
+    "sentence2": "We can offset the losses from last quarter by increasing our sales this month.",
+    "sentence3": "To offset the environmental impact, the firm invested in renewable energy projects."
   },
   {
     "word": "on behalf of",
@@ -1361,6 +2169,14 @@
     "sentence3": "She managed to organize the meeting on such short notice, which impressed everyone."
   },
   {
+    "word": "on the ground that",
+    "meanings": "〜という理由で",
+    "synonyms": "because, due to, on account of",
+    "sentence1": "The proposal was rejected on the ground that it did not meet the budget requirements.",
+    "sentence2": "She was promoted on the ground that her performance exceeded expectations.",
+    "sentence3": "They decided to cancel the event on the ground that the weather conditions were unsafe."
+  },
+  {
     "word": "on the wane",
     "meanings": "衰退している，減少している",
     "synonyms": "declining, diminishing, decreasing",
@@ -1375,6 +2191,14 @@
     "sentence1": "The traditional office setup is on the way out as more companies embrace remote work.",
     "sentence2": "With the rise of digital media, print newspapers are on the way out.",
     "sentence3": "Many believe that cash is on the way out, replaced by digital payment methods."
+  },
+  {
+    "word": "orchard",
+    "meanings": "果樹園",
+    "synonyms": "grove, plantation, garden",
+    "sentence1": "The orchard was filled with ripe apples ready for harvest.",
+    "sentence2": "We decided to take a leisurely stroll through the orchard on a sunny afternoon.",
+    "sentence3": "The local farmers' market features fresh produce from the nearby orchard."
   },
   {
     "word": "orphan",
@@ -1414,6 +2238,38 @@
     "sentence1": "The company decided to overhaul its marketing strategy to attract more customers.",
     "sentence2": "After the audit, we realized we needed to overhaul our financial processes.",
     "sentence3": "The software team is planning to overhaul the application to improve user experience."
+  },
+  {
+    "word": "overhaul",
+    "meanings": "全面的な見直し, 徹底的な修理",
+    "synonyms": "revamp, renovate, upgrade",
+    "sentence1": "The company decided to overhaul its marketing strategy to better reach younger consumers.",
+    "sentence2": "After the equipment failure, the team had to overhaul the entire system to ensure it was functioning properly.",
+    "sentence3": "The government plans to overhaul the healthcare system to improve access and reduce costs."
+  },
+  {
+    "word": "overhear",
+    "meanings": "偶然聞く, 盗み聞きする",
+    "synonyms": "eavesdrop, listen in, hear by chance",
+    "sentence1": "I happened to overhear a conversation about the upcoming project deadline.",
+    "sentence2": "She was careful not to overhear any sensitive information during the meeting.",
+    "sentence3": "While waiting in the café, I overheard some colleagues discussing their travel plans."
+  },
+  {
+    "word": "overstate",
+    "meanings": "誇張する",
+    "synonyms": "exaggerate, embellish, amplify",
+    "sentence1": "It's easy to overstate the benefits of a new marketing strategy.",
+    "sentence2": "She tends to overstate her achievements during job interviews.",
+    "sentence3": "We should avoid overstating the risks involved in the project."
+  },
+  {
+    "word": "pass up",
+    "meanings": "見逃す, 放棄する",
+    "synonyms": "decline, forgo, reject",
+    "sentence1": "I decided to pass up the opportunity for a promotion because I wanted to focus on my current projects.",
+    "sentence2": "She couldn't believe she would pass up such a great deal on a new car.",
+    "sentence3": "If you pass up this chance to network, you might regret it later."
   },
   {
     "word": "patronize",
@@ -1462,12 +2318,44 @@
     "sentence3": "His comments were not pertinent to the discussion, which frustrated the team."
   },
   {
+    "word": "pessimistic",
+    "meanings": "悲観的な",
+    "synonyms": "negative, cynical, gloomy",
+    "sentence1": "Her pessimistic outlook on the project made it difficult for the team to stay motivated.",
+    "sentence2": "Despite the challenges, he tried to remain optimistic, even though his colleague was often pessimistic.",
+    "sentence3": "The report was filled with pessimistic predictions about the economy, which worried investors."
+  },
+  {
     "word": "petition",
     "meanings": "請願, 申請書, 要望書",
     "synonyms": "request, appeal, application",
     "sentence1": "The employees submitted a petition to request better working conditions.",
     "sentence2": "We need to gather signatures for the petition before the deadline.",
     "sentence3": "She wrote a formal petition to the management regarding the new policy."
+  },
+  {
+    "word": "phenomenal",
+    "meanings": "驚異的な、素晴らしい",
+    "synonyms": "extraordinary, remarkable, exceptional",
+    "sentence1": "The team's performance in the last quarter was phenomenal, exceeding all expectations.",
+    "sentence2": "She has a phenomenal ability to connect with her clients and understand their needs.",
+    "sentence3": "The feedback from the conference was phenomenal, with attendees praising the quality of the speakers."
+  },
+  {
+    "word": "pick a fight with",
+    "meanings": "喧嘩を売る, 争いを挑む",
+    "synonyms": "start a conflict, provoke, instigate",
+    "sentence1": "It's unwise to pick a fight with your colleagues during a team meeting.",
+    "sentence2": "He tends to pick a fight with anyone who disagrees with him.",
+    "sentence3": "Avoid picking a fight with your boss; it could jeopardize your career."
+  },
+  {
+    "word": "pick on",
+    "meanings": "いじめる, からかう",
+    "synonyms": "bully, tease, harass",
+    "sentence1": "It's not fair to pick on someone just because they are different.",
+    "sentence2": "She felt hurt when her colleagues would pick on her for making mistakes.",
+    "sentence3": "If you continue to pick on him, he might decide to leave the team."
   },
   {
     "word": "place an order",
@@ -1492,6 +2380,14 @@
     "sentence1": "Her explanation for being late was plausible, so I accepted it without question.",
     "sentence2": "The proposal seemed plausible, but we needed more evidence to support it.",
     "sentence3": "It's plausible that the project will be completed ahead of schedule if we stay on track."
+  },
+  {
+    "word": "play up",
+    "meanings": "強調する, 誇張する",
+    "synonyms": "exaggerate, emphasize, highlight",
+    "sentence1": "During the presentation, she decided to play up the benefits of the new software.",
+    "sentence2": "He tends to play up his achievements to impress his colleagues.",
+    "sentence3": "The marketing team will play up the product's unique features in the upcoming campaign."
   },
   {
     "word": "pledge to do",
@@ -1585,6 +2481,14 @@
     "sentence3": "She was praised for her skills in procurement during the annual review."
   },
   {
+    "word": "prominently",
+    "meanings": "目立って, 顕著に",
+    "synonyms": "conspicuously, noticeably, distinctly",
+    "sentence1": "The company's logo was prominently displayed at the conference.",
+    "sentence2": "She was prominently featured in the latest marketing campaign.",
+    "sentence3": "His achievements were prominently recognized during the award ceremony."
+  },
+  {
     "word": "proprietor",
     "meanings": "所有者，経営者",
     "sentence1": "The proprietor of the café greeted each customer with a warm smile.",
@@ -1600,6 +2504,30 @@
     "sentence3": "Many communities strive for prosperity through sustainable development."
   },
   {
+    "word": "pull A's leg",
+    "meanings": "からかう, いじる",
+    "synonyms": "joke, tease, fool",
+    "sentence1": "I thought he was serious about quitting his job, but he was just pulling my leg.",
+    "sentence2": "Don't believe her story; she's just pulling your leg.",
+    "sentence3": "He loves to pull people's legs with his outrageous jokes."
+  },
+  {
+    "word": "pull off",
+    "meanings": "成功させる, 実行する",
+    "synonyms": "achieve, accomplish, succeed",
+    "sentence1": "Despite the challenges, she managed to pull off the project ahead of schedule.",
+    "sentence2": "It was a risky move, but he was able to pull off the deal with the investors.",
+    "sentence3": "They didn't think he could do it, but he pulled off a fantastic presentation."
+  },
+  {
+    "word": "pull up",
+    "meanings": "引き上げる, 停止する, 立ち寄る",
+    "synonyms": "stop, halt, draw up",
+    "sentence1": "Please pull up the report so we can review it together.",
+    "sentence2": "He decided to pull up at the next gas station to refuel.",
+    "sentence3": "If you pull up your chair, we can start the meeting."
+  },
+  {
     "word": "purveyor",
     "meanings": "供給業者，販売業者",
     "sentence1": "The company is a leading purveyor of high-quality office supplies.",
@@ -1613,6 +2541,14 @@
     "sentence1": "It's time to put our new marketing strategy into practice to see if it yields results.",
     "sentence2": "After months of planning, we finally put the project into practice last week.",
     "sentence3": "She was eager to put her innovative ideas into practice during the team meeting."
+  },
+  {
+    "word": "put on airs",
+    "meanings": "気取る, 偉そうにする",
+    "synonyms": "act superior, show off, be pretentious",
+    "sentence1": "She always puts on airs when she talks about her job at the prestigious firm.",
+    "sentence2": "It's frustrating to see him put on airs just because he got a promotion.",
+    "sentence3": "People tend to put on airs when they are in the presence of wealthy individuals."
   },
   {
     "word": "put out",
@@ -1639,12 +2575,28 @@
     "sentence3": "Quite a few employees attended the training session last week."
   },
   {
+    "word": "reap",
+    "meanings": "収穫する, 得る",
+    "synonyms": "harvest, gather, collect",
+    "sentence1": "After months of hard work, the team was finally able to reap the benefits of their efforts.",
+    "sentence2": "Farmers hope to reap a good harvest this season despite the unpredictable weather.",
+    "sentence3": "If you invest wisely, you can reap significant rewards in the long run."
+  },
+  {
     "word": "rebate",
     "meanings": "リベート，割引",
     "synonyms": "refund, discount, deduction",
     "sentence1": "The company offered a rebate on the new software to encourage more sales.",
     "sentence2": "After submitting the necessary paperwork, I received a rebate check in the mail.",
     "sentence3": "Customers were thrilled to learn about the rebate program that would save them money on future purchases."
+  },
+  {
+    "word": "recap",
+    "meanings": "要約する, 再確認する",
+    "synonyms": "summarize, review, reiterate",
+    "sentence1": "Let's recap the main points from today's meeting to ensure everyone is on the same page.",
+    "sentence2": "Before we move on, can you recap what we discussed last week?",
+    "sentence3": "The manager asked for a quick recap of the project's progress during the team huddle."
   },
   {
     "word": "recede",
@@ -1671,6 +2623,14 @@
     "sentence3": "They worked hard to reconcile their personal beliefs with the company's values."
   },
   {
+    "word": "reconciliation",
+    "meanings": "和解, 調和",
+    "synonyms": "settlement, resolution, agreement",
+    "sentence1": "The reconciliation between the two companies allowed them to move forward with their partnership.",
+    "sentence2": "After a long discussion, they finally reached a reconciliation that satisfied both parties.",
+    "sentence3": "Reconciliation is essential for maintaining healthy relationships in both personal and professional settings."
+  },
+  {
     "word": "recount",
     "meanings": "再び数える, 詳細に語る",
     "synonyms": "narrate, tell, describe, relate",
@@ -1679,12 +2639,28 @@
     "sentence3": "After the event, they will recount the highlights in the company newsletter."
   },
   {
+    "word": "recur",
+    "meanings": "再発する, 繰り返される",
+    "synonyms": "reappear, happen again, return",
+    "sentence1": "We need to address the issues that recur in our quarterly reports.",
+    "sentence2": "If the problem continues to recur, we may need to consider a different approach.",
+    "sentence3": "The team noticed that certain challenges tend to recur during the project lifecycle."
+  },
+  {
     "word": "redecorate",
     "meanings": "再装飾する, 改装する",
     "synonyms": "renovate, refurbish, update",
     "sentence1": "We decided to redecorate the office to create a more inviting atmosphere for our clients.",
     "sentence2": "After years of living in the same apartment, I felt it was time to redecorate and give it a fresh look.",
     "sentence3": "The company plans to redecorate its headquarters to reflect its new branding strategy."
+  },
+  {
+    "word": "redundant",
+    "meanings": "余分な, 不要な",
+    "synonyms": "superfluous, unnecessary, excessive",
+    "sentence1": "The report contained redundant information that could have been omitted.",
+    "sentence2": "To improve efficiency, we need to eliminate redundant processes in our workflow.",
+    "sentence3": "His explanation was so redundant that it confused the audience rather than clarifying the topic."
   },
   {
     "word": "refurbish",
@@ -1701,6 +2677,22 @@
     "sentence1": "Please remit the payment by the end of the month to avoid late fees.",
     "sentence2": "The company decided to remit the outstanding balance due to the customer's loyalty.",
     "sentence3": "After reviewing the case, the manager chose to remit the penalty for the late submission."
+  },
+  {
+    "word": "remuneration",
+    "meanings": "報酬, 報い, 給与",
+    "synonyms": "compensation, payment, salary, wages",
+    "sentence1": "The company offers competitive remuneration packages to attract top talent.",
+    "sentence2": "Employees are often motivated by the remuneration they receive for their hard work.",
+    "sentence3": "Negotiating your remuneration can significantly impact your overall job satisfaction."
+  },
+  {
+    "word": "repatriate",
+    "meanings": "本国に帰す, 帰国させる",
+    "synonyms": "return, restore, bring back",
+    "sentence1": "The company decided to repatriate its profits to invest in local projects.",
+    "sentence2": "After years abroad, she was excited to repatriate and reconnect with her roots.",
+    "sentence3": "The government has implemented new policies to repatriate citizens stranded overseas."
   },
   {
     "word": "replenish",
@@ -1727,6 +2719,14 @@
     "sentence3": "It's important to deliver a reprimand in a constructive manner to encourage improvement."
   },
   {
+    "word": "repurpose",
+    "meanings": "再利用する",
+    "synonyms": "reuse, recycle, adapt, modify",
+    "sentence1": "The company decided to repurpose old materials to create new products.",
+    "sentence2": "By repurposing their marketing strategy, they were able to reach a wider audience.",
+    "sentence3": "She found a way to repurpose her skills in graphic design for a new career in web development."
+  },
+  {
     "word": "resolute",
     "meanings": "決意のある, 断固とした, 固い決心を持った",
     "synonyms": "determined, steadfast, unwavering",
@@ -1735,11 +2735,43 @@
     "sentence3": "The manager was resolute in implementing the new policies to improve efficiency."
   },
   {
+    "word": "rest on A",
+    "meanings": "Aに依存する, Aに基づく",
+    "synonyms": "depend on A, rely on A, be based on A",
+    "sentence1": "Our success will rest on our ability to adapt to changing market conditions.",
+    "sentence2": "The future of the project will rest on the team's commitment to meeting deadlines.",
+    "sentence3": "The decision to expand the business will rest on thorough market research."
+  },
+  {
     "word": "resumption",
     "meanings": "再開",
     "sentence1": "The resumption of work after the holiday was welcomed by all employees.",
     "sentence2": "We are looking forward to the resumption of the project next month.",
     "sentence3": "The resumption of services will take place after the maintenance is completed."
+  },
+  {
+    "word": "retain",
+    "meanings": "保持する, 失わない, 維持する",
+    "synonyms": "keep, hold, preserve",
+    "sentence1": "It's important to retain key employees to maintain a competitive edge.",
+    "sentence2": "The company aims to retain its customer base by improving service quality.",
+    "sentence3": "To succeed in this market, we must retain our innovative approach."
+  },
+  {
+    "word": "retention",
+    "meanings": "保持, 維持",
+    "synonyms": "holding, preservation, maintenance",
+    "sentence1": "The company implemented new strategies to improve employee retention rates.",
+    "sentence2": "Customer retention is crucial for the long-term success of any business.",
+    "sentence3": "Effective training programs can enhance knowledge retention among staff."
+  },
+  {
+    "word": "revamp",
+    "meanings": "改訂する, 改善する, 更新する",
+    "synonyms": "renovate, overhaul, update, improve",
+    "sentence1": "The company decided to revamp its marketing strategy to attract more customers.",
+    "sentence2": "After receiving feedback, the team worked hard to revamp the product design.",
+    "sentence3": "We need to revamp our website to make it more user-friendly and appealing."
   },
   {
     "word": "roll out",
@@ -1756,6 +2788,30 @@
     "sentence1": "The manager updated the roster to include the new employees.",
     "sentence2": "Please check the roster to see who is on duty this week.",
     "sentence3": "We need to finalize the roster before the project starts."
+  },
+  {
+    "word": "roundup",
+    "meanings": "集会, 一括処理, 概要",
+    "synonyms": "summary, compilation, gathering",
+    "sentence1": "The weekly roundup of sales figures will be presented in the meeting tomorrow.",
+    "sentence2": "We need to do a roundup of all the project updates before the client call.",
+    "sentence3": "The newsletter includes a roundup of the latest industry news and trends."
+  },
+  {
+    "word": "run an errand",
+    "meanings": "用事を済ませる",
+    "synonyms": "do a task, complete a chore, fulfill a duty",
+    "sentence1": "I need to run an errand before the meeting starts.",
+    "sentence2": "Can you run an errand for me while I'm at work?",
+    "sentence3": "She often runs errands during her lunch break."
+  },
+  {
+    "word": "rundown",
+    "meanings": "要約, 概要, 事情",
+    "synonyms": "summary, overview, briefing",
+    "sentence1": "Can you provide a quick rundown of the project's status before the meeting?",
+    "sentence2": "I received a rundown of the new policies during the training session.",
+    "sentence3": "The manager gave us a rundown of the sales figures for the last quarter."
   },
   {
     "word": "rush off",
@@ -1790,11 +2846,75 @@
     "sentence3": "Her explanation was a bit sketchy, making it hard to understand the project requirements."
   },
   {
+    "word": "smuggle",
+    "meanings": "密輸する",
+    "synonyms": "traffick, sneak, import illegally",
+    "sentence1": "The company was caught trying to smuggle goods across the border.",
+    "sentence2": "He was arrested for attempting to smuggle rare artifacts out of the country.",
+    "sentence3": "They used a hidden compartment in the truck to smuggle the electronics."
+  },
+  {
+    "word": "sober",
+    "meanings": "酔っていない, 冷静な, 真面目な",
+    "synonyms": "clear-headed, serious, level-headed",
+    "sentence1": "After a long night of partying, he finally felt sober enough to drive home safely.",
+    "sentence2": "It's important to stay sober during meetings to make sound decisions.",
+    "sentence3": "She approached the situation with a sober mindset, focusing on the facts rather than emotions."
+  },
+  {
     "word": "solicit",
     "meanings": "請求する，求める",
     "sentence1": "The company decided to solicit feedback from its customers to improve its services.",
     "sentence2": "She plans to solicit donations for the charity event next month.",
     "sentence3": "It is important to solicit opinions from all team members during the project planning phase."
+  },
+  {
+    "word": "sort A out",
+    "meanings": "Aを整理する, Aを解決する",
+    "synonyms": "organize, resolve, arrange",
+    "sentence1": "We need to sort the project details out before the meeting tomorrow.",
+    "sentence2": "Can you help me sort out these files by the end of the day?",
+    "sentence3": "It's important to sort out any misunderstandings with the client as soon as possible."
+  },
+  {
+    "word": "spare no expense",
+    "meanings": "費用を惜しまない",
+    "synonyms": "spare no cost, go all out, pull out all the stops",
+    "sentence1": "The company decided to spare no expense in creating a top-notch marketing campaign.",
+    "sentence2": "When it comes to her wedding, she plans to spare no expense to make it unforgettable.",
+    "sentence3": "To ensure the safety of our employees, we will spare no expense in upgrading our equipment."
+  },
+  {
+    "word": "speak highly of",
+    "meanings": "高く評価する",
+    "synonyms": "praise, commend, laud, extol",
+    "sentence1": "During the meeting, she spoke highly of the team's efforts on the project.",
+    "sentence2": "It's important to speak highly of your colleagues to foster a positive work environment.",
+    "sentence3": "He always speaks highly of his mentor, crediting him for his success."
+  },
+  {
+    "word": "speak out",
+    "meanings": "声を上げる, 意見を述べる",
+    "synonyms": "voice, express, articulate",
+    "sentence1": "It's important to speak out against injustice in the workplace.",
+    "sentence2": "She decided to speak out about her experiences to help others.",
+    "sentence3": "If you see something wrong, don't hesitate to speak out."
+  },
+  {
+    "word": "speak up",
+    "meanings": "声を大にする, はっきり言う",
+    "synonyms": "voice, express, articulate",
+    "sentence1": "During the meeting, I encouraged everyone to speak up if they had any concerns.",
+    "sentence2": "It's important to speak up about issues that affect your team.",
+    "sentence3": "If you don't agree with the proposal, please speak up before we make a decision."
+  },
+  {
+    "word": "spell out",
+    "meanings": "明確に説明する, 詳細に述べる",
+    "synonyms": "explain, clarify, elaborate",
+    "sentence1": "Could you please spell out the details of the project during the meeting?",
+    "sentence2": "It's important to spell out your expectations to avoid any misunderstandings.",
+    "sentence3": "The teacher asked the students to spell out their ideas clearly in the report."
   },
   {
     "word": "split up",
@@ -1811,14 +2931,6 @@
     "sentence1": "The company implemented new policies to stabilize its financial situation.",
     "sentence2": "Efforts to stabilize the market have been met with mixed results.",
     "sentence3": "We need to stabilize our supply chain to avoid future disruptions."
-  },
-  {
-    "word": "stagnant",
-    "meanings": "停滞した, 不活発な",
-    "synonyms": "inactive, motionless, stagnant",
-    "sentence1": "The company's profits have been stagnant for the past two years, prompting management to consider new strategies.",
-    "sentence2": "Stagnant water can become a breeding ground for mosquitoes, which is a health concern.",
-    "sentence3": "If the economy remains stagnant, it could lead to higher unemployment rates."
   },
   {
     "word": "stern",
@@ -1844,12 +2956,52 @@
     "sentence3": "The company saw a significant increase in sales in the subsequent quarter."
   },
   {
+    "word": "substitute",
+    "meanings": "代替品, 代わりに使う",
+    "synonyms": "replacement, alternative, stand-in",
+    "sentence1": "We need to find a substitute for the missing ingredient in the recipe.",
+    "sentence2": "If the manager is unavailable, I will act as a substitute during the meeting.",
+    "sentence3": "The school allows students to substitute one elective for another if they prefer."
+  },
+  {
+    "word": "suit oneself",
+    "meanings": "自分の都合に合わせる, 自分の思い通りにする",
+    "synonyms": "do as one pleases, act according to one's own wishes, follow one's own desires",
+    "sentence1": "If you want to skip the meeting, feel free to suit yourself.",
+    "sentence2": "She decided to suit herself and take a vacation instead of working overtime.",
+    "sentence3": "You can suit yourself, but I think it's better to consult the team before making a decision."
+  },
+  {
+    "word": "sum A up",
+    "meanings": "Aを要約する",
+    "synonyms": "summarize, recap, conclude",
+    "sentence1": "At the end of the meeting, I will sum up the main points we discussed.",
+    "sentence2": "Can you sum up your findings in a few sentences for the report?",
+    "sentence3": "She always knows how to sum up a long discussion into a clear conclusion."
+  },
+  {
     "word": "surveillance",
     "meanings": "監視, 監視活動, 監視状態",
     "synonyms": "monitoring, observation, oversight",
     "sentence1": "The company implemented surveillance measures to ensure the safety of its employees.",
     "sentence2": "Surveillance cameras were installed in the office to prevent theft.",
     "sentence3": "Regular surveillance of the workplace can help identify potential security risks."
+  },
+  {
+    "word": "take A at A's word",
+    "meanings": "Aの言葉をそのまま受け入れる",
+    "synonyms": "believe, trust, accept",
+    "sentence1": "I decided to take him at his word when he promised to deliver the project on time.",
+    "sentence2": "It's important to take your colleagues at their word to build a trusting work environment.",
+    "sentence3": "When she said she would help with the presentation, I took her at her word."
+  },
+  {
+    "word": "take A back",
+    "meanings": "Aを取り戻す, Aを返す",
+    "synonyms": "return, restore, revert",
+    "sentence1": "I need to take the book back to the library before it's overdue.",
+    "sentence2": "After reconsidering his decision, he decided to take the proposal back to the board for further discussion.",
+    "sentence3": "She realized she had made a mistake and wanted to take her words back."
   },
   {
     "word": "take after",
@@ -1860,12 +3012,28 @@
     "sentence3": "Many people say that I take after my father when it comes to my work ethic."
   },
   {
+    "word": "take care of",
+    "meanings": "世話をする, 面倒を見る",
+    "synonyms": "look after, attend to, manage",
+    "sentence1": "I will take care of the client’s needs during the meeting.",
+    "sentence2": "Can you take care of the arrangements for the conference?",
+    "sentence3": "It's important to take care of your health while working long hours."
+  },
+  {
     "word": "take charge of",
     "meanings": "担当する, 管理する",
     "synonyms": "manage, oversee, direct",
     "sentence1": "She was promoted to take charge of the new marketing campaign.",
     "sentence2": "It's important to take charge of your own career development.",
     "sentence3": "He decided to take charge of the project to ensure its success."
+  },
+  {
+    "word": "take on",
+    "meanings": "引き受ける, 取り組む, 受け入れる, 意見・見方",
+    "synonyms": "accept, undertake, assume",
+    "sentence1": "I decided to take on the new project despite my busy schedule.",
+    "sentence2": "She is ready to take on more responsibilities at work.",
+    "sentence3": "What's your take on the recent changes in company policy?"
   },
   {
     "word": "take pride in",
@@ -1876,12 +3044,36 @@
     "sentence3": "He takes pride in being part of a team that makes a difference."
   },
   {
+    "word": "take up",
+    "meanings": "始める, 取り組む, 占める",
+    "synonyms": "begin, start, engage, occupy",
+    "sentence1": "She decided to take up yoga to improve her flexibility.",
+    "sentence2": "The new project will take up a significant amount of our resources.",
+    "sentence3": "He took up the challenge and worked hard to meet the deadline."
+  },
+  {
     "word": "takeaway",
     "meanings": "要点, 教訓, 持ち帰りの食事",
     "synonyms": "lesson, conclusion, key point",
     "sentence1": "The main takeaway from the meeting was the importance of teamwork.",
     "sentence2": "After reviewing the report, the biggest takeaway was the need for better communication.",
     "sentence3": "Her takeaway from the conference was to always be open to new ideas."
+  },
+  {
+    "word": "talk over A with",
+    "meanings": "AについてBと話し合う",
+    "synonyms": "discuss, converse, deliberate",
+    "sentence1": "I need to talk over the project details with my team before the meeting.",
+    "sentence2": "Let's talk over the proposal with the client to ensure we're on the same page.",
+    "sentence3": "She scheduled a time to talk over the budget with her supervisor."
+  },
+  {
+    "word": "tear down",
+    "meanings": "取り壊す, 解体する, 破壊する",
+    "synonyms": "demolish, dismantle, destroy",
+    "sentence1": "The company decided to tear down the old building to make way for a new office complex.",
+    "sentence2": "After the storm, they had to tear down the damaged structures for safety reasons.",
+    "sentence3": "The city plans to tear down the abandoned warehouse to improve the neighborhood."
   },
   {
     "word": "tedious",
@@ -1892,12 +3084,36 @@
     "sentence3": "She found the repetitive tasks at work to be quite tedious."
   },
   {
+    "word": "tell off",
+    "meanings": "叱る, 注意する",
+    "synonyms": "rebuke, scold, reprimand",
+    "sentence1": "The manager had to tell off the employee for being late to the meeting.",
+    "sentence2": "She didn't appreciate being told off in front of her colleagues.",
+    "sentence3": "After the incident, he expected to be told off by his supervisor."
+  },
+  {
     "word": "tell on",
     "meanings": "告げる, 密告する",
     "synonyms": "inform, report, betray",
     "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
     "sentence2": "He was afraid to tell on his coworker for fear of retaliation.",
     "sentence3": "It's important to tell on any unethical behavior in the workplace."
+  },
+  {
+    "word": "tell on",
+    "meanings": "告げる, 密告する",
+    "synonyms": "inform, report, betray",
+    "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
+    "sentence2": "She decided to tell on her coworker for taking credit for her work.",
+    "sentence3": "It's important to tell on any unethical behavior in the workplace."
+  },
+  {
+    "word": "tell on",
+    "meanings": "告げる, 密告する",
+    "synonyms": "inform, report, betray",
+    "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
+    "sentence2": "She decided to tell on her colleague for taking credit for her work.",
+    "sentence3": "It's not right to tell on your friends, but sometimes it's necessary."
   },
   {
     "word": "temperament",
@@ -1932,12 +3148,28 @@
     "sentence3": "The professor's tenure was renewed after a thorough review of his contributions to the department."
   },
   {
+    "word": "testimony",
+    "meanings": "証言, 証拠",
+    "synonyms": "evidence, proof, witness statement",
+    "sentence1": "The witness provided compelling testimony during the trial.",
+    "sentence2": "Her testimony helped clarify the events leading up to the incident.",
+    "sentence3": "In business meetings, personal testimony can often sway opinions."
+  },
+  {
     "word": "there is no point (in) Ving",
     "meanings": "Vする意味がない",
     "synonyms": "there's no use, it's pointless, it's futile",
     "sentence1": "There is no point in arguing about the past; we need to focus on the future.",
     "sentence2": "She realized there is no point in trying to please everyone.",
     "sentence3": "If you don't enjoy the work, then there is no point in continuing with it."
+  },
+  {
+    "word": "think better of A",
+    "meanings": "Aについて再考する, Aを見直す",
+    "synonyms": "reconsider, rethink, change one's mind",
+    "sentence1": "After discussing the proposal, I decided to think better of my initial objections.",
+    "sentence2": "She thought better of her decision to invest in that startup after hearing the latest news.",
+    "sentence3": "It's wise to think better of your choices before making a final commitment."
   },
   {
     "word": "thoroughly",
@@ -1972,12 +3204,36 @@
     "sentence3": "In today's digital economy, online transactions have become increasingly common."
   },
   {
+    "word": "treat A to",
+    "meanings": "Aにごちそうする, Aを楽しませる",
+    "synonyms": "entertain, indulge, pamper",
+    "sentence1": "I decided to treat my colleagues to lunch after we finished the project.",
+    "sentence2": "She treated her friend to a concert as a thank-you gift.",
+    "sentence3": "Let's treat ourselves to a nice dinner this weekend."
+  },
+  {
     "word": "turn a blind eye",
     "meanings": "見て見ぬふりをする",
     "synonyms": "ignore, overlook, disregard",
     "sentence1": "Despite the obvious signs of misconduct, the manager chose to turn a blind eye to the situation.",
     "sentence2": "It's easy to turn a blind eye to problems when they don't directly affect you.",
     "sentence3": "The company cannot afford to turn a blind eye to safety violations any longer."
+  },
+  {
+    "word": "turn to A",
+    "meanings": "Aに頼る, Aに向かう",
+    "synonyms": "rely on, depend on, resort to",
+    "sentence1": "When faced with a difficult decision, I often turn to my mentor for advice.",
+    "sentence2": "In times of crisis, many people turn to their families for support.",
+    "sentence3": "If you need assistance, don't hesitate to turn to your colleagues."
+  },
+  {
+    "word": "turnout",
+    "meanings": "出席者数, 投票者数, 参加者数",
+    "synonyms": "attendance, participation, turnout rate",
+    "sentence1": "The turnout for the annual meeting was higher than expected, indicating strong interest from the employees.",
+    "sentence2": "We need to improve voter turnout in the upcoming election to ensure that everyone's voice is heard.",
+    "sentence3": "The event's turnout was impressive, with over a thousand participants joining the conference."
   },
   {
     "word": "turnover",
@@ -1987,12 +3243,28 @@
     "sentence3": "To improve turnover rates, the management implemented new employee engagement strategies."
   },
   {
+    "word": "unanimous",
+    "meanings": "全員一致の",
+    "synonyms": "united, agreed, harmonious",
+    "sentence1": "The board reached a unanimous decision to approve the new policy.",
+    "sentence2": "It was a unanimous vote among the committee members to extend the project deadline.",
+    "sentence3": "The team's unanimous support for the proposal made it easier to implement."
+  },
+  {
     "word": "uncover",
     "meanings": "明らかにする, 発見する",
     "synonyms": "reveal, discover, expose",
     "sentence1": "The investigation aims to uncover the truth behind the company's financial discrepancies.",
     "sentence2": "We need to uncover the underlying issues that are affecting employee morale.",
     "sentence3": "The research team was able to uncover new insights into consumer behavior."
+  },
+  {
+    "word": "unwavering",
+    "meanings": "揺るぎない",
+    "synonyms": "steadfast, resolute, unyielding",
+    "sentence1": "Her unwavering commitment to the project inspired the entire team.",
+    "sentence2": "Despite the challenges, he maintained an unwavering focus on his goals.",
+    "sentence3": "The company's unwavering dedication to quality has earned it a loyal customer base."
   },
   {
     "word": "up-and-coming",
@@ -2027,6 +3299,22 @@
     "sentence3": "During the meeting, we discussed the importance of ventilation in reducing airborne illnesses."
   },
   {
+    "word": "versatile",
+    "meanings": "多才な, 多用途の",
+    "synonyms": "adaptable, flexible, multifaceted",
+    "sentence1": "Her versatile skills make her an asset to any team.",
+    "sentence2": "This versatile tool can be used for a variety of tasks around the house.",
+    "sentence3": "In today's job market, being versatile is essential for career advancement."
+  },
+  {
+    "word": "viable",
+    "meanings": "実行可能な, 生存可能な",
+    "synonyms": "feasible, workable, practical",
+    "sentence1": "The team presented a viable plan to increase sales next quarter.",
+    "sentence2": "After reviewing the project, we concluded that it was not a viable option for our budget.",
+    "sentence3": "Finding a viable solution to the problem is essential for the success of the project."
+  },
+  {
     "word": "vicinity",
     "meanings": "近所, 周辺, 近接",
     "synonyms": "neighborhood, area, proximity",
@@ -2051,12 +3339,28 @@
     "sentence3": "In an effort to attract more clients, the firm will waive the initial consultation fee this month."
   },
   {
+    "word": "warn",
+    "meanings": "警告する",
+    "synonyms": "alert, advise, caution, notify",
+    "sentence1": "I want to warn you against investing in that company without doing proper research.",
+    "sentence2": "She warned him against making hasty decisions that could affect his career.",
+    "sentence3": "The teacher warned the students against cheating on the exam."
+  },
+  {
     "word": "warrant",
     "meanings": "保証する, 正当化する, 令状",
     "synonyms": "guarantee, justify, authorize",
     "sentence1": "The company issued a warrant to ensure the delivery of the goods.",
     "sentence2": "You need a warrant to search the premises legally.",
     "sentence3": "Her performance in the project warrants a promotion."
+  },
+  {
+    "word": "work around",
+    "meanings": "回避する, うまく対処する",
+    "synonyms": "bypass, circumvent, avoid",
+    "sentence1": "We need to work around the scheduling conflict to ensure everyone can attend the meeting.",
+    "sentence2": "If the software has a bug, we can work around it by using an alternative method for now.",
+    "sentence3": "The team found a way to work around the limitations of the current system."
   },
   {
     "word": "workmanship",
@@ -2067,652 +3371,12 @@
     "sentence3": "Her craftsmanship in the pottery class impressed everyone, reflecting her dedication and skill."
   },
   {
-    "word": "hand in hand",
-    "meanings": "手を取り合って, 密接に関連して",
-    "synonyms": "together, in conjunction, side by side",
-    "sentence1": "The marketing and sales teams worked hand in hand to launch the new product successfully.",
-    "sentence2": "In a successful project, planning and execution go hand in hand.",
-    "sentence3": "The two departments must collaborate hand in hand to achieve the company's goals."
-  },
-  {
-    "word": "back end forth",
-    "meanings": "前後に動く, 行ったり来たりする",
-    "synonyms": "oscillate, fluctuate, sway",
-    "sentence1": "The project team had to back end forth on their decision due to conflicting opinions.",
-    "sentence2": "During the meeting, the discussion seemed to back end forth without reaching a conclusion.",
-    "sentence3": "It's important to avoid back end forth communication to ensure clarity in our messages."
-  },
-  {
-    "word": "take A back",
-    "meanings": "Aを取り戻す, Aを返す",
-    "synonyms": "return, restore, revert",
-    "sentence1": "I need to take the book back to the library before it's overdue.",
-    "sentence2": "After reconsidering his decision, he decided to take the proposal back to the board for further discussion.",
-    "sentence3": "She realized she had made a mistake and wanted to take her words back."
-  },
-  {
-    "word": "sort A out",
-    "meanings": "Aを整理する, Aを解決する",
-    "synonyms": "organize, resolve, arrange",
-    "sentence1": "We need to sort the project details out before the meeting tomorrow.",
-    "sentence2": "Can you help me sort out these files by the end of the day?",
-    "sentence3": "It's important to sort out any misunderstandings with the client as soon as possible."
-  },
-  {
-    "word": "sum A up",
-    "meanings": "Aを要約する",
-    "synonyms": "summarize, recap, conclude",
-    "sentence1": "At the end of the meeting, I will sum up the main points we discussed.",
-    "sentence2": "Can you sum up your findings in a few sentences for the report?",
-    "sentence3": "She always knows how to sum up a long discussion into a clear conclusion."
-  },
-  {
-    "word": "in a nutshell",
-    "meanings": "要するに",
-    "synonyms": "in summary, briefly, in short",
-    "sentence1": "In a nutshell, we need to improve our marketing strategy to boost sales.",
-    "sentence2": "The report was long, but the conclusion was presented in a nutshell.",
-    "sentence3": "She explained the project in a nutshell, making it easy for everyone to understand."
-  },
-  {
-    "word": "eat up",
-    "meanings": "食べ尽くす, 完全に消費する",
-    "synonyms": "consume, devour, finish",
-    "sentence1": "We need to eat up all the leftovers before they spoil.",
-    "sentence2": "The children ate up their dinner in no time.",
-    "sentence3": "Make sure to eat up your snacks during the meeting."
-  },
-  {
-    "word": "play up",
-    "meanings": "強調する, 誇張する",
-    "synonyms": "exaggerate, emphasize, highlight",
-    "sentence1": "During the presentation, she decided to play up the benefits of the new software.",
-    "sentence2": "He tends to play up his achievements to impress his colleagues.",
-    "sentence3": "The marketing team will play up the product's unique features in the upcoming campaign."
-  },
-  {
-    "word": "tear down",
-    "meanings": "取り壊す, 解体する, 破壊する",
-    "synonyms": "demolish, dismantle, destroy",
-    "sentence1": "The company decided to tear down the old building to make way for a new office complex.",
-    "sentence2": "After the storm, they had to tear down the damaged structures for safety reasons.",
-    "sentence3": "The city plans to tear down the abandoned warehouse to improve the neighborhood."
-  },
-  {
-    "word": "markdown",
-    "meanings": "値下げ, マークダウン",
-    "synonyms": "discount, reduction, price cut",
-    "sentence1": "The store is offering a markdown on all winter clothing to clear out inventory.",
-    "sentence2": "After reviewing the sales data, we decided to implement a markdown on the slow-moving items.",
-    "sentence3": "She was thrilled to find a markdown on her favorite brand of shoes during the sale."
-  },
-  {
-    "word": "run an errand",
-    "meanings": "用事を済ませる",
-    "synonyms": "do a task, complete a chore, fulfill a duty",
-    "sentence1": "I need to run an errand before the meeting starts.",
-    "sentence2": "Can you run an errand for me while I'm at work?",
-    "sentence3": "She often runs errands during her lunch break."
-  },
-  {
-    "word": "in the know",
-    "meanings": "情報通である, 知識がある",
-    "synonyms": "informed, aware, knowledgeable",
-    "sentence1": "She always seems to be in the know about the latest trends in the industry.",
-    "sentence2": "If you want to stay competitive, you need to be in the know regarding market changes.",
-    "sentence3": "Being in the know can give you an advantage in negotiations."
-  },
-  {
-    "word": "lunatic",
-    "meanings": "狂人, 精神異常者",
-    "synonyms": "maniac, madman, crazy person",
-    "sentence1": "The proposal seemed lunatic to everyone in the meeting, but he was convinced it would work.",
-    "sentence2": "She felt like a lunatic for staying up all night to finish the project.",
-    "sentence3": "His lunatic ideas often led to innovative solutions that others wouldn't consider."
-  },
-  {
-    "word": "sober",
-    "meanings": "酔っていない, 冷静な, 真面目な",
-    "synonyms": "clear-headed, serious, level-headed",
-    "sentence1": "After a long night of partying, he finally felt sober enough to drive home safely.",
-    "sentence2": "It's important to stay sober during meetings to make sound decisions.",
-    "sentence3": "She approached the situation with a sober mindset, focusing on the facts rather than emotions."
-  },
-  {
-    "word": "treat A to",
-    "meanings": "Aにごちそうする, Aを楽しませる",
-    "synonyms": "entertain, indulge, pamper",
-    "sentence1": "I decided to treat my colleagues to lunch after we finished the project.",
-    "sentence2": "She treated her friend to a concert as a thank-you gift.",
-    "sentence3": "Let's treat ourselves to a nice dinner this weekend."
-  },
-  {
-    "word": "get a kick out of A",
-    "meanings": "Aを楽しむ, Aに興奮する",
-    "synonyms": "enjoy, appreciate, take pleasure in",
-    "sentence1": "I really get a kick out of watching stand-up comedy on weekends.",
-    "sentence2": "She gets a kick out of trying new foods whenever she travels.",
-    "sentence3": "He gets a kick out of playing video games with his friends after work."
-  },
-  {
-    "word": "get across",
-    "meanings": "伝える, 通す, 渡す",
-    "synonyms": "communicate, convey, express",
-    "sentence1": "It's important to get your ideas across clearly during the presentation.",
-    "sentence2": "She struggled to get her point across in the meeting.",
-    "sentence3": "We need to find a way to get the message across to all employees."
-  },
-  {
-    "word": "as per",
-    "meanings": "に従って, に基づいて",
-    "synonyms": "according to, in accordance with, in line with",
-    "sentence1": "As per our agreement, the payment is due by the end of the month.",
-    "sentence2": "Please submit the report as per the guidelines provided.",
-    "sentence3": "As per your request, I have attached the documents for your review."
-  },
-  {
-    "word": "defer",
-    "meanings": "延期する, 後回しにする",
-    "synonyms": "postpone, delay, put off",
-    "sentence1": "We decided to defer the meeting until next week to allow everyone to prepare.",
-    "sentence2": "It's important to defer decisions until all the necessary information is available.",
-    "sentence3": "She chose to defer her enrollment in the program to focus on her current job."
-  },
-  {
-    "word": "pull A's leg",
-    "meanings": "からかう, いじる",
-    "synonyms": "joke, tease, fool",
-    "sentence1": "I thought he was serious about quitting his job, but he was just pulling my leg.",
-    "sentence2": "Don't believe her story; she's just pulling your leg.",
-    "sentence3": "He loves to pull people's legs with his outrageous jokes."
-  },
-  {
-    "word": "take A at A's word",
-    "meanings": "Aの言葉をそのまま受け入れる",
-    "synonyms": "believe, trust, accept",
-    "sentence1": "I decided to take him at his word when he promised to deliver the project on time.",
-    "sentence2": "It's important to take your colleagues at their word to build a trusting work environment.",
-    "sentence3": "When she said she would help with the presentation, I took her at her word."
-  },
-  {
-    "word": "cross A's mind",
-    "meanings": "Aの心に浮かぶ",
-    "synonyms": "occur to A, come to A's mind, strike A",
-    "sentence1": "It never crossed my mind that she would leave the company.",
-    "sentence2": "When the idea crossed my mind, I knew it could be a game changer.",
-    "sentence3": "I was surprised when it crossed his mind to propose such an innovative solution."
-  },
-  {
-    "word": "warn",
-    "meanings": "警告する",
-    "synonyms": "alert, advise, caution, notify",
-    "sentence1": "I want to warn you against investing in that company without doing proper research.",
-    "sentence2": "She warned him against making hasty decisions that could affect his career.",
-    "sentence3": "The teacher warned the students against cheating on the exam."
-  },
-  {
-    "word": "reconciliation",
-    "meanings": "和解, 調和",
-    "synonyms": "settlement, resolution, agreement",
-    "sentence1": "The reconciliation between the two companies allowed them to move forward with their partnership.",
-    "sentence2": "After a long discussion, they finally reached a reconciliation that satisfied both parties.",
-    "sentence3": "Reconciliation is essential for maintaining healthy relationships in both personal and professional settings."
-  },
-  {
-    "word": "rest on A",
-    "meanings": "Aに依存する, Aに基づく",
-    "synonyms": "depend on A, rely on A, be based on A",
-    "sentence1": "Our success will rest on our ability to adapt to changing market conditions.",
-    "sentence2": "The future of the project will rest on the team's commitment to meeting deadlines.",
-    "sentence3": "The decision to expand the business will rest on thorough market research."
-  },
-  {
-    "word": "draw on A",
-    "meanings": "Aを利用する, Aに頼る",
-    "synonyms": "rely on, utilize, depend on",
-    "sentence1": "In order to complete the project successfully, we need to draw on our previous experiences.",
-    "sentence2": "The company decided to draw on its extensive network of contacts to find new clients.",
-    "sentence3": "She often draws on her creativity to solve complex problems at work."
-  },
-  {
-    "word": "pull up",
-    "meanings": "引き上げる, 停止する, 立ち寄る",
-    "synonyms": "stop, halt, draw up",
-    "sentence1": "Please pull up the report so we can review it together.",
-    "sentence2": "He decided to pull up at the next gas station to refuel.",
-    "sentence3": "If you pull up your chair, we can start the meeting."
-  },
-  {
-    "word": "move over",
-    "meanings": "移動する, どかす",
-    "synonyms": "shift, adjust, reposition",
-    "sentence1": "Could you please move over a bit so I can sit down?",
-    "sentence2": "The manager asked the team to move over to the new office space next week.",
-    "sentence3": "As the bus approached, the pedestrians had to move over to make way."
-  },
-  {
-    "word": "be taken in by A",
-    "meanings": "Aに騙される",
-    "synonyms": "be deceived by A, be fooled by A, be misled by A",
-    "sentence1": "I can't believe I was taken in by his charming smile.",
-    "sentence2": "Many investors were taken in by the company's false promises.",
-    "sentence3": "She was taken in by the advertisement and bought the product without checking reviews."
-  },
-  {
-    "word": "be tied up with A",
-    "meanings": "Aに忙しい, Aに関与している",
-    "synonyms": "be occupied with A, be engaged with A, be involved with A",
-    "sentence1": "I'm sorry, but I can't attend the meeting because I'm tied up with a project deadline.",
-    "sentence2": "She was tied up with client calls all afternoon, so she couldn't respond to emails.",
-    "sentence3": "He is tied up with his studies right now, but he will join us later."
-  },
-  {
-    "word": "be cut out for",
-    "meanings": "〜に向いている, 〜に適している",
-    "synonyms": "be suited for, be fit for, be made for",
-    "sentence1": "She realized that she was cut out for a career in marketing after her internship.",
-    "sentence2": "If you want to succeed in this field, you need to be cut out for the challenges it presents.",
-    "sentence3": "He always knew he was cut out for teaching, as he enjoyed helping others learn."
-  },
-  {
-    "word": "be cut out to be A",
-    "meanings": "Aになるために向いている",
-    "synonyms": "be suited for, be fit for, be made for",
-    "sentence1": "She is cut out to be a leader, always inspiring those around her.",
-    "sentence2": "If you want to succeed in sales, you need to be cut out to be persuasive.",
-    "sentence3": "He realized he was not cut out to be an accountant after just a few months on the job."
-  },
-  {
-    "word": "be cut out to V",
-    "meanings": "Vするのに向いている",
-    "synonyms": "be suited to, be fit for, be made for",
-    "sentence1": "She is cut out to be a leader, always inspiring her team.",
-    "sentence2": "If you are cut out to work in sales, you will thrive in a competitive environment.",
-    "sentence3": "He realized he was not cut out to be a programmer after struggling with the code."
-  },
-  {
-    "word": "think better of A",
-    "meanings": "Aについて再考する, Aを見直す",
-    "synonyms": "reconsider, rethink, change one's mind",
-    "sentence1": "After discussing the proposal, I decided to think better of my initial objections.",
-    "sentence2": "She thought better of her decision to invest in that startup after hearing the latest news.",
-    "sentence3": "It's wise to think better of your choices before making a final commitment."
-  },
-  {
-    "word": "put on airs",
-    "meanings": "気取る, 偉そうにする",
-    "synonyms": "act superior, show off, be pretentious",
-    "sentence1": "She always puts on airs when she talks about her job at the prestigious firm.",
-    "sentence2": "It's frustrating to see him put on airs just because he got a promotion.",
-    "sentence3": "People tend to put on airs when they are in the presence of wealthy individuals."
-  },
-  {
-    "word": "live from hand to mouth",
-    "meanings": "日々の生活に困窮する",
-    "synonyms": "make ends meet, live paycheck to paycheck, struggle financially",
-    "sentence1": "Many freelancers live from hand to mouth, never knowing when their next paycheck will arrive.",
-    "sentence2": "Despite his hard work, he found himself living from hand to mouth due to rising living costs.",
-    "sentence3": "It's difficult to save for the future when you are constantly living from hand to mouth."
-  },
-  {
-    "word": "adherent",
-    "meanings": "支持者, 付着物",
-    "synonyms": "supporter, follower, advocate",
-    "sentence1": "The company has a strong adherent base that believes in its mission.",
-    "sentence2": "As an adherent of sustainable practices, she always chooses eco-friendly products.",
-    "sentence3": "The new policy has attracted many adherents who are eager to see positive changes."
-  },
-  {
-    "word": "be backed up",
-    "meanings": "バックアップされる, 遅れる",
-    "synonyms": "be supported, be reinforced, be aided",
-    "sentence1": "The project timeline may be delayed if we are backed up by the IT department.",
-    "sentence2": "Due to the heavy traffic, we might be backed up for another hour.",
-    "sentence3": "Make sure all your files are backed up before the system maintenance starts."
-  },
-  {
-    "word": "keep off",
-    "meanings": "立ち入らない, 遠ざける",
-    "synonyms": "stay away, avoid, refrain from",
-    "sentence1": "Please keep off the grass to help it grow.",
-    "sentence2": "The sign clearly says to keep off the restricted area.",
-    "sentence3": "It's best to keep off any topics that might cause disagreement during the meeting."
-  },
-  {
-    "word": "have an effect on A",
-    "meanings": "Aに影響を与える",
-    "synonyms": "influence, impact, affect",
-    "sentence1": "The new marketing strategy will have an effect on our sales figures this quarter.",
-    "sentence2": "It's important to understand how external factors can have an effect on employee morale.",
-    "sentence3": "The recent changes in policy may have an effect on the company's overall performance."
-  },
-  {
-    "word": "bring about",
-    "meanings": "引き起こす, もたらす",
-    "synonyms": "cause, produce, effect, create",
-    "sentence1": "The new policy is expected to bring about significant changes in the workplace.",
-    "sentence2": "Efforts to improve communication can bring about better teamwork among employees.",
-    "sentence3": "The recent investment will bring about growth in our market share."
-  },
-  {
-    "word": "go about",
-    "meanings": "取り組む, 行動する",
-    "synonyms": "proceed, undertake, engage",
-    "sentence1": "We need to go about improving our customer service to retain clients.",
-    "sentence2": "She decided to go about her research in a more organized manner this time.",
-    "sentence3": "It's important to go about the project methodically to ensure success."
-  },
-  {
-    "word": "talk over A with",
-    "meanings": "AについてBと話し合う",
-    "synonyms": "discuss, converse, deliberate",
-    "sentence1": "I need to talk over the project details with my team before the meeting.",
-    "sentence2": "Let's talk over the proposal with the client to ensure we're on the same page.",
-    "sentence3": "She scheduled a time to talk over the budget with her supervisor."
-  },
-  {
-    "word": "have one's own way",
-    "meanings": "自分の思い通りにする",
-    "synonyms": "get one's way, have one's way, do as one pleases",
-    "sentence1": "In negotiations, it's important to find a compromise rather than insisting on having your own way.",
-    "sentence2": "She always tries to have her own way, even if it means disregarding others' opinions.",
-    "sentence3": "If you want to succeed in a team environment, you can't always have your own way."
-  },
-  {
-    "word": "turn to A",
-    "meanings": "Aに頼る, Aに向かう",
-    "synonyms": "rely on, depend on, resort to",
-    "sentence1": "When faced with a difficult decision, I often turn to my mentor for advice.",
-    "sentence2": "In times of crisis, many people turn to their families for support.",
-    "sentence3": "If you need assistance, don't hesitate to turn to your colleagues."
-  },
-  {
-    "word": "collect oneself",
-    "meanings": "自分を落ち着かせる",
-    "synonyms": "compose oneself, regain composure, pull oneself together",
-    "sentence1": "After the unexpected news, she needed a moment to collect herself before responding.",
-    "sentence2": "He took a deep breath to collect himself before giving the presentation.",
-    "sentence3": "It's important to collect yourself after a setback to move forward effectively."
-  },
-  {
-    "word": "suit oneself",
-    "meanings": "自分の都合に合わせる, 自分の思い通りにする",
-    "synonyms": "do as one pleases, act according to one's own wishes, follow one's own desires",
-    "sentence1": "If you want to skip the meeting, feel free to suit yourself.",
-    "sentence2": "She decided to suit herself and take a vacation instead of working overtime.",
-    "sentence3": "You can suit yourself, but I think it's better to consult the team before making a decision."
-  },
-  {
-    "word": "overhear",
-    "meanings": "偶然聞く, 盗み聞きする",
-    "synonyms": "eavesdrop, listen in, hear by chance",
-    "sentence1": "I happened to overhear a conversation about the upcoming project deadline.",
-    "sentence2": "She was careful not to overhear any sensitive information during the meeting.",
-    "sentence3": "While waiting in the café, I overheard some colleagues discussing their travel plans."
-  },
-  {
-    "word": "conductive",
-    "meanings": "導電性の",
-    "synonyms": "transmissive, guiding, leading",
-    "sentence1": "The material used in the wiring is highly conductive, ensuring efficient energy transfer.",
-    "sentence2": "In a conductive environment, signals can travel quickly and reliably.",
-    "sentence3": "We need to find a more conductive solution for our electrical systems to improve performance."
-  },
-  {
-    "word": "at any cost",
-    "meanings": "どんな犠牲を払っても",
-    "synonyms": "at all costs, no matter what, regardless of the consequences",
-    "sentence1": "We need to complete this project at any cost to meet the deadline.",
-    "sentence2": "She was determined to win the competition at any cost.",
-    "sentence3": "The company decided to expand its market presence at any cost."
-  },
-  {
-    "word": "speak out",
-    "meanings": "声を上げる, 意見を述べる",
-    "synonyms": "voice, express, articulate",
-    "sentence1": "It's important to speak out against injustice in the workplace.",
-    "sentence2": "She decided to speak out about her experiences to help others.",
-    "sentence3": "If you see something wrong, don't hesitate to speak out."
-  },
-  {
-    "word": "despair",
-    "meanings": "絶望",
-    "synonyms": "hopelessness, despondency, gloom",
-    "sentence1": "After receiving the news of the project's cancellation, she felt a deep sense of despair.",
-    "sentence2": "In times of crisis, it's important not to give in to despair and to seek solutions.",
-    "sentence3": "His despair was evident as he struggled to find a way to overcome the challenges ahead."
-  },
-  {
-    "word": "by and large",
-    "meanings": "概して, 大体において",
-    "synonyms": "generally, mostly, overall",
-    "sentence1": "By and large, the project has been a success despite some minor setbacks.",
-    "sentence2": "The team, by and large, agreed on the new strategy moving forward.",
-    "sentence3": "By and large, customers have responded positively to the changes we implemented."
-  },
-  {
-    "word": "testimony",
-    "meanings": "証言, 証拠",
-    "synonyms": "evidence, proof, witness statement",
-    "sentence1": "The witness provided compelling testimony during the trial.",
-    "sentence2": "Her testimony helped clarify the events leading up to the incident.",
-    "sentence3": "In business meetings, personal testimony can often sway opinions."
-  },
-  {
-    "word": "for the time being",
-    "meanings": "当面の間",
-    "synonyms": "temporarily, for now, for the moment",
-    "sentence1": "We will use the old software for the time being until the new version is ready.",
-    "sentence2": "For the time being, let's focus on completing the current project before starting anything new.",
-    "sentence3": "The team has decided to work remotely for the time being due to the ongoing situation."
-  },
-  {
-    "word": "in good faith",
-    "meanings": "誠実に, 善意で",
-    "synonyms": "honestly, sincerely, with integrity",
-    "sentence1": "We entered into the contract in good faith, believing both parties would uphold their end of the agreement.",
-    "sentence2": "The negotiations were conducted in good faith, aiming for a mutually beneficial outcome.",
-    "sentence3": "It's important to act in good faith when dealing with clients to build trust and long-term relationships."
-  },
-  {
-    "word": "tell off",
-    "meanings": "叱る, 注意する",
-    "synonyms": "rebuke, scold, reprimand",
-    "sentence1": "The manager had to tell off the employee for being late to the meeting.",
-    "sentence2": "She didn't appreciate being told off in front of her colleagues.",
-    "sentence3": "After the incident, he expected to be told off by his supervisor."
-  },
-  {
-    "word": "drag out",
-    "meanings": "引き延ばす, 長引かせる",
-    "synonyms": "prolong, extend, delay",
-    "sentence1": "We need to avoid dragging out the meeting any longer than necessary.",
-    "sentence2": "The negotiations were dragged out for weeks without any resolution.",
-    "sentence3": "She tends to drag out her responses, making it hard to stay engaged in the conversation."
-  },
-  {
-    "word": "flaky",
-    "meanings": "不安定な, 信頼できない",
-    "synonyms": "unreliable, erratic, inconsistent",
-    "sentence1": "The flaky software caused several issues during the presentation.",
-    "sentence2": "I can't rely on him; he's too flaky to meet deadlines.",
-    "sentence3": "Her flaky behavior made it difficult for the team to trust her."
-  },
-  {
-    "word": "tell on",
-    "meanings": "告げる, 密告する",
-    "synonyms": "inform, report, betray",
-    "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
-    "sentence2": "She decided to tell on her coworker for taking credit for her work.",
-    "sentence3": "It's important to tell on any unethical behavior in the workplace."
-  },
-  {
-    "word": "be found guilty of",
-    "meanings": "有罪とされる",
-    "synonyms": "be convicted of, be sentenced for, be charged with",
-    "sentence1": "After a lengthy trial, he was found guilty of embezzlement.",
-    "sentence2": "If you are found guilty of this offense, you could face significant penalties.",
-    "sentence3": "The jury took only a few hours to decide that she was found guilty of fraud."
-  },
-  {
-    "word": "be found innocent of",
-    "meanings": "無罪であると認定される",
-    "synonyms": "be acquitted of, be cleared of, be exonerated from",
-    "sentence1": "After a lengthy trial, she was finally found innocent of all charges.",
-    "sentence2": "The jury's decision to find him innocent of the crime surprised many in the courtroom.",
-    "sentence3": "He was relieved to be found innocent of the allegations that had tarnished his reputation."
-  },
-  {
-    "word": "at the cost of",
-    "meanings": "〜の犠牲にして",
-    "synonyms": "at the expense of, sacrificing",
-    "sentence1": "The company decided to expand its operations at the cost of employee benefits.",
-    "sentence2": "She achieved her goals at the cost of her personal relationships.",
-    "sentence3": "They improved their profits at the cost of product quality."
-  },
-  {
-    "word": "by way of",
-    "meanings": "〜を通じて, 〜の手段として",
-    "synonyms": "through, via, by means of",
-    "sentence1": "We will send the documents by way of email to ensure they arrive quickly.",
-    "sentence2": "She traveled to the conference by way of the scenic route to enjoy the views.",
-    "sentence3": "You can reach customer support by way of our website's contact form."
-  },
-  {
-    "word": "all but A",
-    "meanings": "Aを除いてすべて",
-    "synonyms": "almost, nearly, practically",
-    "sentence1": "The project is all but complete, with just a few minor details left to finalize.",
-    "sentence2": "She has all but given up on finding a job in her field after months of searching.",
-    "sentence3": "The team has all but secured the contract, pending final approval from management."
-  },
-  {
-    "word": "inscrutable",
-    "meanings": "不可解な, 謎めいた",
-    "synonyms": "enigmatic, mysterious, unreadable",
-    "sentence1": "The CEO's inscrutable expression made it difficult to gauge his reaction to the proposal.",
-    "sentence2": "Despite her inscrutable demeanor, she had a wealth of knowledge about the industry.",
-    "sentence3": "The inscrutable nature of the market trends left many investors feeling uncertain."
-  },
-  {
-    "word": "redundant",
-    "meanings": "余分な, 不要な",
-    "synonyms": "superfluous, unnecessary, excessive",
-    "sentence1": "The report contained redundant information that could have been omitted.",
-    "sentence2": "To improve efficiency, we need to eliminate redundant processes in our workflow.",
-    "sentence3": "His explanation was so redundant that it confused the audience rather than clarifying the topic."
-  },
-  {
-    "word": "contrive",
-    "meanings": "考案する, 仕組む, 画策する",
-    "synonyms": "devise, concoct, engineer, formulate",
-    "sentence1": "We need to contrive a new strategy to improve our sales figures this quarter.",
-    "sentence2": "She managed to contrive a solution to the problem that satisfied everyone involved.",
-    "sentence3": "The team worked together to contrive an innovative approach to the project."
-  },
-  {
-    "word": "juggle",
-    "meanings": "ジャグリングする, 同時にいくつかのことをこなす",
-    "synonyms": "manage, balance, handle",
-    "sentence1": "She has to juggle her job and her studies effectively.",
-    "sentence2": "It's challenging to juggle multiple projects at once.",
-    "sentence3": "He learned to juggle his responsibilities to meet deadlines."
-  },
-  {
-    "word": "cleanse",
-    "meanings": "浄化する, 清める",
-    "synonyms": "purify, wash, sanitize",
-    "sentence1": "It's important to cleanse your skin thoroughly before applying makeup.",
-    "sentence2": "The company decided to cleanse its database of outdated information.",
-    "sentence3": "After a long week, she felt the need to cleanse her mind with a weekend retreat."
-  },
-  {
-    "word": "live with",
-    "meanings": "共に生活する, 受け入れる",
-    "synonyms": "cohabit, coexist, endure",
-    "sentence1": "It's important to live with your decisions and learn from them.",
-    "sentence2": "She decided to live with her parents while saving for a new apartment.",
-    "sentence3": "To succeed in this industry, you must learn to live with uncertainty."
-  },
-  {
-    "word": "pick on",
-    "meanings": "いじめる, からかう",
-    "synonyms": "bully, tease, harass",
-    "sentence1": "It's not fair to pick on someone just because they are different.",
-    "sentence2": "She felt hurt when her colleagues would pick on her for making mistakes.",
-    "sentence3": "If you continue to pick on him, he might decide to leave the team."
-  },
-  {
-    "word": "tell on",
-    "meanings": "告げる, 密告する",
-    "synonyms": "inform, report, betray",
-    "sentence1": "If you see someone cheating, you should tell on them to the teacher.",
-    "sentence2": "She decided to tell on her colleague for taking credit for her work.",
-    "sentence3": "It's not right to tell on your friends, but sometimes it's necessary."
-  },
-  {
-    "word": "accountable",
-    "meanings": "説明責任がある",
-    "synonyms": "responsible, answerable, liable",
-    "sentence1": "As a manager, I am accountable for the team's performance and results.",
-    "sentence2": "Every employee must be accountable for their actions in the workplace.",
-    "sentence3": "The company is committed to being accountable to its stakeholders."
-  },
-  {
-    "word": "roundup",
-    "meanings": "集会, 一括処理, 概要",
-    "synonyms": "summary, compilation, gathering",
-    "sentence1": "The weekly roundup of sales figures will be presented in the meeting tomorrow.",
-    "sentence2": "We need to do a roundup of all the project updates before the client call.",
-    "sentence3": "The newsletter includes a roundup of the latest industry news and trends."
-  },
-  {
-    "word": "overhaul",
-    "meanings": "全面的な見直し, 徹底的な修理",
-    "synonyms": "revamp, renovate, upgrade",
-    "sentence1": "The company decided to overhaul its marketing strategy to better reach younger consumers.",
-    "sentence2": "After the equipment failure, the team had to overhaul the entire system to ensure it was functioning properly.",
-    "sentence3": "The government plans to overhaul the healthcare system to improve access and reduce costs."
-  },
-  {
-    "word": "rundown",
-    "meanings": "要約, 概要, 事情",
-    "synonyms": "summary, overview, briefing",
-    "sentence1": "Can you provide a quick rundown of the project's status before the meeting?",
-    "sentence2": "I received a rundown of the new policies during the training session.",
-    "sentence3": "The manager gave us a rundown of the sales figures for the last quarter."
-  },
-  {
-    "word": "offset",
-    "meanings": "オフセット, 補償, 相殺",
-    "synonyms": "counterbalance, compensate, counteract",
-    "sentence1": "The company implemented a new strategy to offset the rising costs of production.",
-    "sentence2": "We can offset the losses from last quarter by increasing our sales this month.",
-    "sentence3": "To offset the environmental impact, the firm invested in renewable energy projects."
-  },
-  {
-    "word": "by means of",
-    "meanings": "〜を使って, 〜によって",
-    "synonyms": "through, via, using",
-    "sentence1": "We were able to complete the project by means of effective teamwork.",
-    "sentence2": "The company improved its efficiency by means of new technology.",
-    "sentence3": "She solved the problem by means of careful analysis."
-  },
-  {
-    "word": "file a complaint with",
-    "meanings": "苦情を申し立てる",
-    "synonyms": "lodge a complaint, submit a grievance, report an issue",
-    "sentence1": "If you are not satisfied with the service, you should file a complaint with the manager.",
-    "sentence2": "She decided to file a complaint with the customer service department after her issue was not resolved.",
-    "sentence3": "It's important to file a complaint with the appropriate authorities if you believe your rights have been violated."
-  },
-  {
-    "word": "be scheduled for",
-    "meanings": "〜に予定されている",
-    "synonyms": "be planned for, be arranged for, be set for",
-    "sentence1": "The meeting is scheduled for next Tuesday at 10 AM.",
-    "sentence2": "The project deadline has been scheduled for the end of the month.",
-    "sentence3": "Her presentation is scheduled for the conference next week."
+    "word": "wrap up",
+    "meanings": "まとめる, 終える",
+    "synonyms": "conclude, finish, complete",
+    "sentence1": "Let's wrap up the meeting so we can all get back to our work.",
+    "sentence2": "I need to wrap up this project by the end of the week.",
+    "sentence3": "Can you wrap up your presentation in the next five minutes?"
   },
   {
     "word": "yarn",
@@ -2721,109 +3385,5 @@
     "sentence1": "She bought some colorful yarn to knit a sweater for her friend.",
     "sentence2": "The factory produces high-quality yarn used in various textile products.",
     "sentence3": "During the meeting, he shared a fascinating yarn about his travels."
-  },
-  {
-    "word": "instruction",
-    "meanings": "指示, 教育, 指導",
-    "synonyms": "direction, guidance, order",
-    "sentence1": "The manager provided clear instructions for the new project.",
-    "sentence2": "Please follow the instructions carefully to avoid any mistakes.",
-    "sentence3": "The training session included detailed instructions on how to use the software."
-  },
-  {
-    "word": "smuggle",
-    "meanings": "密輸する",
-    "synonyms": "traffick, sneak, import illegally",
-    "sentence1": "The company was caught trying to smuggle goods across the border.",
-    "sentence2": "He was arrested for attempting to smuggle rare artifacts out of the country.",
-    "sentence3": "They used a hidden compartment in the truck to smuggle the electronics."
-  },
-  {
-    "word": "diversion",
-    "meanings": "気晴らし, 逸脱, 方向転換",
-    "synonyms": "distraction, detour, deviation",
-    "sentence1": "Taking a short break for a diversion can help improve productivity at work.",
-    "sentence2": "The company organized a team-building event as a diversion from the usual routine.",
-    "sentence3": "He found that a quick diversion, like a walk outside, helped clear his mind before the meeting."
-  },
-  {
-    "word": "on the ground that",
-    "meanings": "〜という理由で",
-    "synonyms": "because, due to, on account of",
-    "sentence1": "The proposal was rejected on the ground that it did not meet the budget requirements.",
-    "sentence2": "She was promoted on the ground that her performance exceeded expectations.",
-    "sentence3": "They decided to cancel the event on the ground that the weather conditions were unsafe."
-  },
-  {
-    "word": "detain",
-    "meanings": "拘留する, 引き留める",
-    "synonyms": "hold, confine, keep, restrain",
-    "sentence1": "The police decided to detain the suspect for further questioning.",
-    "sentence2": "Due to the weather conditions, they had to detain the passengers at the airport.",
-    "sentence3": "The company may detain your application if all required documents are not submitted."
-  },
-  {
-    "word": "aggravate",
-    "meanings": "悪化させる, いらいらさせる",
-    "synonyms": "exacerbate, intensify, worsen, irritate",
-    "sentence1": "The new policy may aggravate the existing issues within the team.",
-    "sentence2": "He didn't mean to aggravate her feelings, but his comments came off as insensitive.",
-    "sentence3": "Ignoring the problem will only aggravate the situation further."
-  },
-  {
-    "word": "repurpose",
-    "meanings": "再利用する",
-    "synonyms": "reuse, recycle, adapt, modify",
-    "sentence1": "The company decided to repurpose old materials to create new products.",
-    "sentence2": "By repurposing their marketing strategy, they were able to reach a wider audience.",
-    "sentence3": "She found a way to repurpose her skills in graphic design for a new career in web development."
-  },
-  {
-    "word": "retain",
-    "meanings": "保持する, 失わない, 維持する",
-    "synonyms": "keep, hold, preserve",
-    "sentence1": "It's important to retain key employees to maintain a competitive edge.",
-    "sentence2": "The company aims to retain its customer base by improving service quality.",
-    "sentence3": "To succeed in this market, we must retain our innovative approach."
-  },
-  {
-    "word": "retention",
-    "meanings": "保持, 維持",
-    "synonyms": "holding, preservation, maintenance",
-    "sentence1": "The company implemented new strategies to improve employee retention rates.",
-    "sentence2": "Customer retention is crucial for the long-term success of any business.",
-    "sentence3": "Effective training programs can enhance knowledge retention among staff."
-  },
-  {
-    "word": "substitute",
-    "meanings": "代替品, 代わりに使う",
-    "synonyms": "replacement, alternative, stand-in",
-    "sentence1": "We need to find a substitute for the missing ingredient in the recipe.",
-    "sentence2": "If the manager is unavailable, I will act as a substitute during the meeting.",
-    "sentence3": "The school allows students to substitute one elective for another if they prefer."
-  },
-  {
-    "word": "defy",
-    "meanings": "拒む, 逆らう, 挑戦する",
-    "synonyms": "resist, challenge, confront",
-    "sentence1": "She decided to defy the odds and start her own business despite the challenges.",
-    "sentence2": "The athlete managed to defy expectations by winning the championship.",
-    "sentence3": "It's important to defy negative thoughts and stay focused on your goals."
-  },
-  {
-    "word": "pick a fight with",
-    "meanings": "喧嘩を売る、争いを挑む",
-    "synonyms": "start a conflict, provoke, instigate",
-    "sentence1": "It's unwise to pick a fight with your colleagues during a team meeting.",
-    "sentence2": "He tends to pick a fight with anyone who disagrees with him.",
-    "sentence3": "Avoid picking a fight with your boss; it could jeopardize your career."
-  },
-  {
-    "word": "engagement",
-    "meanings": "関与, 約束, 婚約",
-    "synonyms": "involvement, commitment, participation",
-    "sentence1": "The company's engagement with its customers has improved significantly over the past year.",
-    "sentence2": "She accepted his proposal, marking the beginning of their engagement.",
-    "sentence3": "Employee engagement is crucial for maintaining high productivity levels."
   }
 ]
